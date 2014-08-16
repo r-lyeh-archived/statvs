@@ -126,11 +126,17 @@ Help, I've fallen and can't get up!
 
 These are either fully abandoned, or are buggy class-related repositories for classes which are finished.
 
-* [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working game economy system.
 * [Moon9](https://github.com/r-lyeh/moon9) - old engine
+* [Wood](https://github.com/r-lyeh/wood) - old tree structure
+
+End of experiment
+----
+
+I am pretty done with this stuff. Moving on.
+
+* [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working game economy system.
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) - benchmark for different allocators
 * [Test-physics](https://github.com/r-lyeh/test-physics) - benchmark for different integrators in dynamics
-* [Wood](https://github.com/r-lyeh/wood) - old tree structure
 
 Resume
 ---
