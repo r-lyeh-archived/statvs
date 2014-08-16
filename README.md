@@ -3,7 +3,7 @@ status
 
 My name is rlyeh and I code videogames :neckbeard:
 
-This is meant to be a semi-conclusive list of projects in which the author is / has participated in.
+This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
 Released
 ----
