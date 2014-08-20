@@ -67,6 +67,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](http://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different **encoding charsets**.
 * [Duty](http://github.com/r-lyeh/duty) -- lightweight C++11 **task manager** for parallel coroutines and serial jobs.
 * [JPNG](http://github.com/r-lyeh/jpng) -- **jpg-with-alpha image format**. Repository provides specification and image conversion tools
+* [LRU](https://github.com/r-lyeh/lru) -- lightweight **LRU cache structure** for list<T> and map<K,V> containers. Written in C++11 
 * [RGB332 (tool)](http://github.com/r-lyeh/rgb332) -- custom uniform **RGB332 palette**.
 * [Sentry](http://github.com/r-lyeh/sentry) -- lightweight **data monitor** written in C++11.
 * [Variant](http://github.com/r-lyeh/variant) -- **varying** C++11 class that clones javascript behaviour as much as possible.
