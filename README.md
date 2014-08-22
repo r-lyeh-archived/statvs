@@ -59,16 +59,17 @@ Fully released / tested; more features may be incoming, but these are considered
 * User Interface
   - [Bubble](https://github.com/r-lyeh/bubble) -- simple and lightweight C++11 **dialog library for Windows** 
 
-Personal
+Personal or recent
 ----
 
-These are mostly released experiments, but are geared towards personal use; as such, they may be buggy or be of very limited use.
+These are mostly released experiments, but are geared towards personal use; as such, they may be buggy or be of very limited use during development.
 
 * [Codex](http://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different **encoding charsets**.
 * [Duty](http://github.com/r-lyeh/duty) -- lightweight C++11 **task manager** for parallel coroutines and serial jobs.
 * [JPNG](http://github.com/r-lyeh/jpng) -- **jpg-with-alpha image format**. Repository provides specification and image conversion tools
 * [LRU](https://github.com/r-lyeh/lru) -- lightweight **LRU cache structure** for list<T> and map<K,V> containers. Written in C++11 
 * [RGB332 (tool)](http://github.com/r-lyeh/rgb332) -- custom uniform **RGB332 palette**.
+* [Route66](https://github.com/r-lyeh/route66) -- lightweight **embeddable HTTP server** written in C++11.
 * [Sentry](http://github.com/r-lyeh/sentry) -- lightweight **data monitor** written in C++11.
 * [Variant](http://github.com/r-lyeh/variant) -- **varying** C++11 class that clones javascript behaviour as much as possible.
 
