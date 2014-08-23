@@ -1,7 +1,10 @@
 status
 ======
 
-My name is rlyeh and I code videogames :neckbeard:
+- My name is rlyeh and I code videogames :neckbeard:
+- All my libraries are MIT licensed and written in C++/C++11.
+- Most of them are cross-platform, have no external dependencies and are single-header where possible.
+- I follow this extension convention: libraries: *.hpp *.cpp, samples: *.cc, tests: *.cxx.
 
 This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
@@ -33,15 +36,15 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Live](http://github.com/r-lyeh/live) -- **automatic reloader** of variables in C++11, featuring type inference.
   - [Memo](http://github.com/r-lyeh/memo) -- simple and lightweight C++11 **factory class**, featuring automatic type casting.
 * Hashing
-  - [Cocoa](http://github.com/r-lyeh/cocoa) is an uniform **hashing library** written in C++ that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
+  - [Cocoa](http://github.com/r-lyeh/cocoa) -- **hashing library** that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
   - [ID](http://github.com/r-lyeh/id) -- simple **compile-time hasher** and sequential ID generator. Written in C++11.
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight C++11 library to generate universally **unique identificators** (UUID) both v1 and v4.
 * Input
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human **Inferface Device** (HID) C++ library. 
 * I/O
+  - [Apathy](http://github.com/r-lyeh/apathy) -- lightweight **stream/file/mmap/path/virtual-filesystem** IO C++11 library.
   - [Base91x](http://github.com/r-lyeh/base91x) Base91x -- lightweight **binary-to-text encoder** and decoder written in C++ that features 19% to 10% less overhead than base64. 
   - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple **TCP networking** C++ library.
-  - [Apathy](http://github.com/r-lyeh/apathy) -- lightweight **stream/file/path** IO C++11 library with no dependencies.
   - [Giant](http://github.com/r-lyeh/giant) -- tiny C++11 library to **handle little/big endianness**.
 * Render
   - [Dot](http://github.com/r-lyeh/dot) -- simple and lightweight RGBA/HSLA library that support **WebP, JPG, progressive JPG, SVG, PNG, TGA, BMP, PSD, GIF, HDR and PIC images**.
@@ -102,7 +105,7 @@ Each of these projects are suffering from an existential crisis.
 Planned
 ----
 
-Yet to be started, removed and/or finished. Someday.
+Yet to be committed, removed and/or finished. Someday.
 
 * [Atlas](https://github.com/r-lyeh/atlas)
 * [Blender](http://github.com/r-lyeh/blender)
@@ -130,8 +133,8 @@ Help, I've fallen and can't get up!
 
 These are either fully abandoned, or are buggy class-related repositories for classes which are finished.
 
-* [Moon9](https://github.com/r-lyeh/moon9) - old engine
-* [Wood](https://github.com/r-lyeh/wood) - old tree structure
+* [Moon9](https://github.com/r-lyeh/moon9) -- old engine
+* [Wood](https://github.com/r-lyeh/wood) -- old tree structure
 
 End of experiment
 ----
@@ -139,12 +142,12 @@ End of experiment
 I am pretty done with this stuff. Moving on.
 
 * [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working **game economy system**.
-* [Test-allocators](https://github.com/r-lyeh/test-allocators) - benchmark for different **memory allocators**.
-* [Test-physics](https://github.com/r-lyeh/test-physics) - benchmark for different **physics integrators**.
+* [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different **memory allocators**.
+* [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different **physics integrators**.
 
 Resume
 ---
 
 For completeness.
 
-* [Vitae](http://github.com/r-lyeh/vitae) is my self-compilable **C++ resume**
+* [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable **C++ resume**
