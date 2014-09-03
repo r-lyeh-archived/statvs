@@ -29,7 +29,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Unordered_map](http://github.com/r-lyeh/unordered_map) -- *portable header* for std::unordered_map<K,V> template.
 * Debug
   - [Assert++](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS value (C++03).
-  - [Heal](http://github.com/r-lyeh/heal) -- lightweight C++03/C++11 library to aid and *debug applications*.
+  - [Heal](http://github.com/r-lyeh/heal) -- lightweight library to aid and *debug applications* (C++03).
   - [Tracey](http://github.com/r-lyeh/tracey) -- lightweight and simple C++ memory *leak finder* with no dependencies.
 * Gameplay
   - [FSM](http://github.com/r-lyeh/fsm) -- lightweight Hierarchical/*Finite-State Machine* (H/FSM) class (C++11).
@@ -37,14 +37,14 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Live](http://github.com/r-lyeh/live) -- *automatic reloader* of variables, featuring type inference (C++11).
   - [Memo](http://github.com/r-lyeh/memo) -- simple and lightweight *factory class*, featuring automatic type casting (C++11).
 * Hashing
-  - [Cocoa](http://github.com/r-lyeh/cocoa) -- *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
+  - [Cocoa](http://github.com/r-lyeh/cocoa) -- *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH (C++03).
   - [ID](http://github.com/r-lyeh/id) -- simple *compile-time hasher* and sequential ID generator (C++11).
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight library to generate universally *unique identificators* (UUID) both v1 and v4 (C++11).
 * Input
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
 * I/O
   - [Apathy](http://github.com/r-lyeh/apathy) -- lightweight *stream/file/mmap/path/virtual-filesystem* IO library (C++11).
-  - [Base91x](http://github.com/r-lyeh/base91x) Base91x -- lightweight *binary-to-text encoder* and decoder smaller than base64 (C++03). 
+  - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
   - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
   - [Giant](http://github.com/r-lyeh/giant) -- tiny library to *handle little/big endianness* (C++11).
 * Render
@@ -57,7 +57,7 @@ Fully released / tested; more features may be incoming, but these are considered
 * Specifications
   - [ARYA](http://github.com/r-lyeh/ARYA) -- CC0 *asset naming convention*. 
   - [JXML](http://github.com/r-lyeh/JXML) -- loss-less representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs). 
-  - [JXMLex](http://github.com/r-lyeh/JXMLex) is an expressive and relatively small representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML).
+  - [JXMLex](http://github.com/r-lyeh/JXMLex) -- expressive representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML).
 * Unit-testing
   - [Dessert](http://github.com/r-lyeh/dessert) -- lightweight and simple *test framework* (C++11).
 * User Interface
