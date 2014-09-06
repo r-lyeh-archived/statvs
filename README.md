@@ -90,6 +90,7 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Frodo](https://github.com/r-lyeh/frodo) -- lightweight *ring based application framework* (C++11).
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
+* [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
 
 Contributions
 ----
@@ -112,7 +113,7 @@ Planned
 
 Yet to be committed, removed and/or finished. Someday.
 
-* [Atlas](https://github.com/r-lyeh/atlas)
+* [Attila](https://github.com/r-lyeh/attila)
 * [Blender](http://github.com/r-lyeh/blender)
 * [Flow](https://github.com/r-lyeh/flow)
 * [Gamebook](https://github.com/r-lyeh/gamebook)
