@@ -76,6 +76,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [RGB332 (tool)](http://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++11).
 * [Sentry](http://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
+* [Signals](https://github.com/r-lyeh/signals) -- lightweight C++ API to deal with *digital signals*.
 * [Variant](http://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
@@ -113,8 +114,9 @@ Yet to be committed, removed and/or finished. Someday.
 
 * [Atlas](https://github.com/r-lyeh/atlas)
 * [Blender](http://github.com/r-lyeh/blender)
+* [Flow](https://github.com/r-lyeh/flow)
 * [Gamebook](https://github.com/r-lyeh/gamebook)
-* [Geohash](https://github.com/r-lyeh/geohash)
+* [Geo](https://github.com/r-lyeh/geo)
 * [Grog](https://github.com/r-lyeh/grog)
 * [Ling](https://github.com/r-lyeh/ling)
 * [Metatracker](http://github.com/r-lyeh/metatracker)
