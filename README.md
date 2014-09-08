@@ -31,6 +31,9 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Assert++](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS value (C++03).
   - [Heal](http://github.com/r-lyeh/heal) -- lightweight library to aid and *debug applications* (C++03).
   - [Tracey](http://github.com/r-lyeh/tracey) -- lightweight and simple C++ memory *leak finder* with no dependencies.
+* **Encoding**
+  - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
+  - [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
 * **Gameplay**
   - [FSM](http://github.com/r-lyeh/fsm) -- lightweight Hierarchical/*Finite-State Machine* (H/FSM) class (C++11).
   - [Kult](https://github.com/r-lyeh/kult) -- lightweight *entity/component/system* library (C++11).
@@ -44,9 +47,11 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
 * **I/O**
   - [Apathy](http://github.com/r-lyeh/apathy) -- lightweight *stream/file/mmap/path/virtual-filesystem* IO library (C++11).
-  - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
-  - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
   - [Giant](http://github.com/r-lyeh/giant) -- tiny library to *handle little/big endianness* (C++11).
+* **Network**
+  - [Flow](https://github.com/r-lyeh/flow) -- lightweight network downloader with native fallbacks aimed to gamedev (C++11).
+  - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
+  - [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++11).
 * **Render**
   - [Dot](http://github.com/r-lyeh/dot) -- simple and lightweight RGBA/HSLA library that support *WebP, JPG, progressive JPG, SVG, PNG, TGA, BMP, PSD, GIF, HDR and PIC images* (C++03).
 * **Security**
@@ -70,12 +75,10 @@ These are mostly released experiments, but are geared towards personal use; as s
 
 * [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working *game economy system*.
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
-* [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
 * [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
-* [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++11).
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
 * [Signals](https://github.com/r-lyeh/signals) -- lightweight C++ API to deal with *digital signals*.
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
@@ -116,7 +119,6 @@ Yet to be committed, removed and/or finished. Someday.
 
 * [Attila](https://github.com/r-lyeh/attila)
 * [Blender](http://github.com/r-lyeh/blender)
-* [Flow](https://github.com/r-lyeh/flow)
 * [Gamebook](https://github.com/r-lyeh/gamebook)
 * [Geo](https://github.com/r-lyeh/geo)
 * [Grog](https://github.com/r-lyeh/grog)
