@@ -53,7 +53,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
   - [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++11).
 * **Render**
-  - [Dot](http://github.com/r-lyeh/dot) -- simple and lightweight RGBA/HSLA library that support *WebP, JPG, progressive JPG, SVG, PNG, TGA, BMP, PSD, GIF, HDR and PIC images* (C++03).
+  - [Dot](http://github.com/r-lyeh/dot) -- lightweight RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), vector SVG, HDR and PIC* files. (C++03).
 * **Security**
   - [Auth](http://github.com/r-lyeh/auth) -- simple, lightweight and safe client-server *authentication system* (C++).
   - [Vault](http://github.com/r-lyeh/vault) -- lightweight and simple *crypt library* that provides interface for ARC4 (C++03).
