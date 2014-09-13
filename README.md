@@ -91,6 +91,7 @@ In Progress
 
 Proof-of-concepts until stabilised, currently in active development.
 
+* [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight **atlas texture/image packer**.
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
 * [Frodo](https://github.com/r-lyeh/frodo) -- lightweight *ring based application framework* (C++11).
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
@@ -118,7 +119,6 @@ Planned
 
 Yet to be committed, removed and/or finished. Someday.
 
-* [Attila](https://github.com/r-lyeh/attila)
 * [Blender](http://github.com/r-lyeh/blender)
 * [Gamebook](https://github.com/r-lyeh/gamebook)
 * [Geo](https://github.com/r-lyeh/geo)
