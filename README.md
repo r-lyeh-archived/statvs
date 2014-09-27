@@ -2,9 +2,9 @@ status
 ======
 
 - My name is rlyeh and I code videogames :neckbeard:
-- All my libraries are MIT licensed and written in C++/C++11.
-- Most of them are cross-platform, have no external dependencies and are single-header where possible.
-- I follow this extension convention: libraries: *.hpp *.cpp, samples: *.cc, tests: *.cxx.
+- All my libraries are BOOST licensed (~MIT equivalent with no attribution in binary distributions required).
+- Most of my libraries are cross-platform, have no external dependencies and are single-header where possible.
+- I follow this convention: *.hpp *.cpp for libraries, *.cc for samples, *.cxx for tests.
 
 This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
