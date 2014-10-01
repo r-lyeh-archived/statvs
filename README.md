@@ -2,7 +2,7 @@ status
 ======
 
 - My name is rlyeh and I code videogames :neckbeard:
-- All my libraries are BOOST licensed (~MIT equivalent with no attribution in binary distributions required).
+- All my libraries are BOOST licensed (~MIT equivalent with no attribution required in binary distributions).
 - Most of my libraries are cross-platform, have no external dependencies and are single-header where possible.
 - I follow this convention: *.hpp *.cpp for libraries, *.cc for samples, *.cxx for tests.
 
@@ -75,7 +75,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 
 * [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working *game economy system*.
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
-* [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho **spices your terminal up** (C++11).
+* [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
 * [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
@@ -91,7 +91,7 @@ In Progress
 
 Proof-of-concepts until stabilised, currently in active development.
 
-* [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight **atlas texture/image packer**.
+* [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight *atlas texture/image packer*.
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
 * [Frodo](https://github.com/r-lyeh/frodo) -- lightweight *ring based application framework* (C++11).
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
