@@ -24,7 +24,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [SQLight](http://github.com/r-lyeh/sqlight) -- lightweight *MySQL client* (C++11).
 * **Data structures**
   - [Oak](http://github.com/r-lyeh/oak) -- simple and lightweight *tree container* (C++03). 
-  - [Wire](http://github.com/r-lyeh/wire) -- C++ *std::string replacement* that features extended functionality, string interpolation and safe C/C++ formatters.
+  - [Wire](http://github.com/r-lyeh/wire) -- a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters (C++03).
   - [Trie](http://github.com/r-lyeh/trie) -- lightweight and simple *autocompletion* data structure (C++11).
   - [Unordered_map](http://github.com/r-lyeh/unordered_map) -- *portable header* for std::unordered_map<K,V> template.
 * **Debug**
@@ -97,6 +97,7 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
+* [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
 
 Contributions
 ----
