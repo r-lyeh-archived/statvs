@@ -18,7 +18,7 @@ Fully released / tested; more features may be incoming, but these are considered
 * **Audio**
   - [Wave](http://github.com/r-lyeh/wave) -- lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 * **Compression**
-  - [Bundle](https://github.com/r-lyeh/bundle) -- lightweight C++ *compression library* that provides interface for ZIP, LZMA, LZIP, ZPAQ, LZ4 and SHOCO algorithms (C++03).
+  - [Bundle](https://github.com/r-lyeh/bundle) -- lightweight C++ *compression library* that provides interface for ZIP, LZMA, LZIP, ZPAQ, LZ4, BROTLI and SHOCO algorithms (C++03).
   - [Bundler](https://github.com/r-lyeh/bundler) -- command-line *compression tool*.
 * **Databases**
   - [SQLight](http://github.com/r-lyeh/sqlight) -- lightweight *MySQL client* (C++11).
