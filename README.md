@@ -1,12 +1,13 @@
 status
 ======
 
+This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
+
 - My name is rlyeh and I code videogames :neckbeard:
 - All my libraries are BOOST licensed (~MIT equivalent with no attribution required in binary distributions).
 - Most of my libraries are cross-platform, have no external dependencies and are single-header where possible.
+- Many of my libraries have been used in commercial games.
 - I follow this convention: *.hpp *.cpp for libraries, *.cc for samples, *.cxx for tests.
-
-This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
 Released
 ----
