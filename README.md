@@ -44,6 +44,8 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Cocoa](http://github.com/r-lyeh/cocoa) -- *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH (C++11).
   - [ID](http://github.com/r-lyeh/id) -- simple *compile-time hasher* and sequential ID generator (C++11).
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight library to generate universally *unique identificators* (UUID) both v1 and v4 (C++11).
+* **Image**
+  - [Spot](http://github.com/r-lyeh/spot) -- lightweight RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), vector SVG, HDR and PIC* files. (C++03).
 * **Input**
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
 * **I/O**
@@ -53,8 +55,6 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Flow](https://github.com/r-lyeh/flow) -- lightweight network downloader with native fallbacks aimed to gamedev (C++11).
   - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
   - [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++03).
-* **Render**
-  - [Dot](http://github.com/r-lyeh/dot) -- lightweight RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), vector SVG, HDR and PIC* files. (C++03).
 * **Security**
   - [Auth](http://github.com/r-lyeh/auth) -- simple, lightweight and safe client-server *authentication system* (C++).
   - [Vault](http://github.com/r-lyeh/vault) -- lightweight and simple *crypt library* that provides interface for ARC4 (C++03).
