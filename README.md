@@ -15,7 +15,7 @@ Released
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
 
 * **Animation & time**
-  - [Sand](http://github.com/r-lyeh/sand) -- lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars, locales and tweening (C++11).
+  - [Sand](http://github.com/r-lyeh/sand) -- lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales (C++11).
 * **Audio**
   - [Wave](http://github.com/r-lyeh/wave) -- lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 * **Compression**
@@ -100,6 +100,8 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
+* [Tween](https://github.com/r-lyeh/tween) -- (C++11).
+* [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 
 Contributions
 ----
