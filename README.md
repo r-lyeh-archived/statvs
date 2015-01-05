@@ -30,7 +30,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Trie](http://github.com/r-lyeh/trie) -- lightweight and simple *autocompletion* data structure (C++11).
   - [Unordered_map](http://github.com/r-lyeh/unordered_map) -- *portable header* for std::unordered_map<K,V> template.
 * **Debug**
-  - [Assert++](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS value (C++03).
+  - [Assert](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS values (C++03).
   - [Heal](http://github.com/r-lyeh/heal) -- lightweight library to aid and *debug applications* (C++03).
   - [Tracey](http://github.com/r-lyeh/tracey) -- lightweight and simple C++ memory *leak finder* with no dependencies.
 * **Encoding**
