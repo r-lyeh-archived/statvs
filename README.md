@@ -14,8 +14,8 @@ Released
 
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
 
-* **Animation & time**
-  - [Sand](http://github.com/r-lyeh/sand) -- lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales (C++11).
+* **Animation**
+  - [Tween](https://github.com/r-lyeh/tween) -- lightweight *easing library* (C++03).
 * **Audio**
   - [Wave](http://github.com/r-lyeh/wave) -- lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 * **Compression**
@@ -64,6 +64,8 @@ Fully released / tested; more features may be incoming, but these are considered
   - [ARYA](http://github.com/r-lyeh/ARYA) -- CC0 *asset naming convention*. 
   - [JXML](http://github.com/r-lyeh/JXML) -- loss-less representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs). 
   - [JXMLex](http://github.com/r-lyeh/JXMLex) -- expressive representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML).
+* **Time**
+  - [Sand](http://github.com/r-lyeh/sand) -- lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales (C++11).
 * **Unit-testing**
   - [Dessert](http://github.com/r-lyeh/dessert) -- lightweight and simple *test framework* (C++11).
 * **User Interface**
@@ -100,7 +102,6 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
-* [Tween](https://github.com/r-lyeh/tween) -- (C++11).
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 
 Contributions
