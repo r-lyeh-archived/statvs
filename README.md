@@ -37,6 +37,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
   - [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
 * **Gameplay**
+  - [Frodo](https://github.com/r-lyeh/frodo) -- a lightweight *ring dependency framework* (C++11).
   - [FSM](http://github.com/r-lyeh/fsm) -- lightweight Hierarchical/*Finite-State Machine* (H/FSM) class (C++11).
   - [Kult](https://github.com/r-lyeh/kult) -- lightweight *entity/component/system* library (C++11).
   - [Live](http://github.com/r-lyeh/live) -- *automatic reloader* of variables, featuring type inference (C++11).
@@ -98,7 +99,6 @@ Proof-of-concepts until stabilised, currently in active development.
 
 * [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight *atlas texture/image packer*.
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
-* [Frodo](https://github.com/r-lyeh/frodo) -- lightweight *ring based application framework* (C++11).
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
