@@ -83,7 +83,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
 * [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
-* [Flare](https://github.com/r-lyeh/flare) -- lightweight C++ API to deal with **digital signals/logical buttons** (C++03).
+* [Flare](https://github.com/r-lyeh/flare) -- lightweight C++ API to deal with *digital signals/logical buttons* (C++03).
 * [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
 * [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
