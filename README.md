@@ -87,7 +87,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
-* [Signals](https://github.com/r-lyeh/signals) -- lightweight C++ API to deal with *digital signals*.
+* [Signals](https://github.com/r-lyeh/signals) -- Lightweight C++ API to deal with **digital signals/logical buttons** (C++03).
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
