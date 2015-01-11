@@ -26,6 +26,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [SQLight](http://github.com/r-lyeh/sqlight) -- lightweight *MySQL client* (C++11).
 * **Data structures**
   - [Oak](http://github.com/r-lyeh/oak) -- simple and lightweight *tree container* (C++03). 
+  - [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
   - [Wire](http://github.com/r-lyeh/wire) -- a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters (C++03). :star2:
   - [Trie](http://github.com/r-lyeh/trie) -- lightweight and simple *autocompletion* data structure (C++11).
   - [Unordered_map](http://github.com/r-lyeh/unordered_map) -- *portable header* for std::unordered_map<K,V> template.
@@ -37,7 +38,8 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
   - [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
 * **Gameplay**
-  - [Frodo](https://github.com/r-lyeh/frodo) -- a lightweight *ring dependency framework* (C++11).
+  - [Flare](https://github.com/r-lyeh/flare) -- lightweight C++ API to deal with *digital signals/logical buttons* (C++03).
+  - [Frodo](https://github.com/r-lyeh/frodo) -- lightweight *ring dependency framework* (C++11).
   - [FSM](http://github.com/r-lyeh/fsm) -- lightweight Hierarchical/*Finite-State Machine* (H/FSM) class (C++11).
   - [Kult](https://github.com/r-lyeh/kult) -- lightweight *entity/component/system* library (C++11). :star2:
   - [Live](http://github.com/r-lyeh/live) -- *automatic reloader* of variables, featuring type inference (C++11).
@@ -83,9 +85,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
 * [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
-* [Flare](https://github.com/r-lyeh/flare) -- lightweight C++ API to deal with *digital signals/logical buttons* (C++03).
 * [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
-* [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
