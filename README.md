@@ -25,11 +25,11 @@ Fully released / tested; more features may be incoming, but these are considered
 * **Databases**
   - [SQLight](http://github.com/r-lyeh/sqlight) -- lightweight *MySQL client* (C++11).
 * **Data structures**
-  - [Oak](http://github.com/r-lyeh/oak) -- simple and lightweight *tree container* (C++03). 
   - [LRU](https://github.com/r-lyeh/lru) -- lightweight *LRU cache structure* for list<T> and map<K,V> containers (C++11). 
-  - [Wire](http://github.com/r-lyeh/wire) -- a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters (C++03). :star2:
+  - [Oak](http://github.com/r-lyeh/oak) -- simple and lightweight *tree container* (C++03). 
   - [Trie](http://github.com/r-lyeh/trie) -- lightweight and simple *autocompletion* data structure (C++11).
   - [Unordered_map](http://github.com/r-lyeh/unordered_map) -- *portable header* for std::unordered_map<K,V> template.
+  - [Wire](http://github.com/r-lyeh/wire) -- a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters (C++03). :star2:
 * **Debug**
   - [Assert++](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS values (C++03).
   - [Heal](http://github.com/r-lyeh/heal) -- lightweight library to aid and *debug applications* (C++03).
