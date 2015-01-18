@@ -100,13 +100,14 @@ In Progress
 Proof-of-concepts until stabilised, currently in active development.
 
 * [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight *atlas texture/image packer*.
+* [Gamebook](https://github.com/r-lyeh/gamebook)
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
-* [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
-* [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
-* [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
+* [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
+* [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
 * [Wake](https://github.com/r-lyeh/wake)
+* [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
 
 Contributions
 ----
@@ -130,7 +131,8 @@ Planned
 Yet to be committed, removed and/or finished. Someday.
 
 * [Blender](http://github.com/r-lyeh/blender)
-* [Gamebook](https://github.com/r-lyeh/gamebook)
+* [Cash](https://github.com/r-lyeh/cash)
+* [Gate](https://github.com/r-lyeh/gate)
 * [Geo](https://github.com/r-lyeh/geo)
 * [Grog](https://github.com/r-lyeh/grog)
 * [Ling](https://github.com/r-lyeh/ling)
@@ -142,8 +144,6 @@ Yet to be committed, removed and/or finished. Someday.
 * [Social](https://github.com/r-lyeh/social)
 * [Tint](http://github.com/r-lyeh/tint)
 * [Unposix](https://github.com/r-lyeh/unposix)
-* [Cash](https://github.com/r-lyeh/cash)
-* [Gate](https://github.com/r-lyeh/gate)
 * [Wrapp](https://github.com/r-lyeh/wrapp)
 
 Abandoned
