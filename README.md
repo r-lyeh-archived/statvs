@@ -87,6 +87,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
+* [Pitch](https://github.com/r-lyeh/pitch) -- game *template pitch*.
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
