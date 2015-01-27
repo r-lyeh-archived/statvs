@@ -10,7 +10,7 @@ A few notes:
 - Many of my libraries have been used in _commercial games_. They are, or should be, battle-tested.
 - Most of my libraries are _cross-platform_, have _no external dependencies_ and are _header-only_ wherever possible.
 - All my libraries are _BOOST licensed_ (~MIT equivalent with no attribution required in binary distributions).
-- I follow this convention: `.hpp/.cpp` for libraries, `.cc` for samples, `.cxx` for tests.
+- I follow this convention: `.hpp/.cpp` for libraries, `.cc` for samples, `.cxx` for tests and benchmarks.
 
 Released
 ----
