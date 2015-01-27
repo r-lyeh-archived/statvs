@@ -3,9 +3,11 @@ status
 
 My name is r-lyeh and I code videogames :neckbeard:
 
-This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in. A few notes:
+This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
-- Many of my libraries have been used in _commercial games_.
+A few notes:
+
+- Many of my libraries have been used in _commercial games_. They are, or should be, battle-tested.
 - Most of my libraries are _cross-platform_, have _no external dependencies_ and are _header-only_ wherever possible.
 - All my libraries are _BOOST licensed_ (~MIT equivalent with no attribution required in binary distributions).
 - I follow this convention: `.hpp/.cpp` for libraries, `.cc` for samples, `.cxx` for tests.
@@ -20,7 +22,7 @@ Fully released / tested; more features may be incoming, but these are considered
 * **Audio**
   - [Wave](http://github.com/r-lyeh/wave) -- lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 * **Compression**
-  - [Bundle](https://github.com/r-lyeh/bundle) -- an embeddable *compression library* that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, BROTLI and SHOCO (C++03)(C++11). :star2:
+  - [Bundle](https://github.com/r-lyeh/bundle) -- an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO (C++03)(C++11). :star2:
   - [Bundler](https://github.com/r-lyeh/bundler) -- command-line *compression tool*.
 * **Databases**
   - [SQLight](http://github.com/r-lyeh/sqlight) -- lightweight *MySQL client* (C++11).
