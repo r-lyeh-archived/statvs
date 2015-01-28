@@ -51,6 +51,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [ID](http://github.com/r-lyeh/id) -- simple *compile-time hasher* and sequential ID generator (C++11).
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight library to generate universally *unique identificators* (UUID) both v1 and v4 (C++11). :star2:
 * **Image**
+  - [Pug](https://github.com/r-lyeh/pug) -- *PNG with a twist*: lossy diffuse and lossless alpha image format (spec/tools)
   - [Spot](http://github.com/r-lyeh/spot) -- compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC and vectorial SVG files*. (C++03). :star2:
 * **Input**
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
@@ -88,7 +89,6 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
 * [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
-* [JPNG](https://github.com/r-lyeh/jpng) -- *jpg-with-alpha image format*. Repository provides specification and image conversion tools
 * [Pitch](https://github.com/r-lyeh/pitch) -- game *template pitch*.
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
