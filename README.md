@@ -51,7 +51,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [ID](http://github.com/r-lyeh/id) -- simple *compile-time hasher* and sequential ID generator (C++11).
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight library to generate universally *unique identificators* (UUID) both v1 and v4 (C++11). :star2:
 * **Image**
-  - [Pug](https://github.com/r-lyeh/pug) -- *PNG with a twist*: lossy diffuse and lossless alpha image format (spec/tools)
+  - [Pug](https://github.com/r-lyeh/pug) -- *PUG: PNG with a twist*. A lossy diffuse + lossless alpha image format. (spec/tools)
   - [Spot](http://github.com/r-lyeh/spot) -- compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC and vectorial SVG files*. (C++03). :star2:
 * **Input**
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
