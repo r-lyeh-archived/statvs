@@ -73,7 +73,7 @@ Fully released / tested; more features may be incoming, but these are considered
 * **Time**
   - [Sand](http://github.com/r-lyeh/sand) -- lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales (C++11).
 * **Unit-testing**
-  - [Dessert](http://github.com/r-lyeh/dessert) -- lightweight and simple *test framework* (C++11). :star2:
+  - [Dessert](http://github.com/r-lyeh/dessert) -- lightweight *unit-testing framework* (C++11). :star2:
 * **User Interface**
   - [Bubble](https://github.com/r-lyeh/bubble) -- simple and lightweight *dialog library for Windows* (C++11). 
 
