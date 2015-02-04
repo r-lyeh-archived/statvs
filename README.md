@@ -36,6 +36,8 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Assert++](http://github.com/r-lyeh/assert) -- a smart *assert replacement* for LHS/RHS values (C++03).
   - [Heal](http://github.com/r-lyeh/heal) -- lightweight library to aid and *debug applications* (C++03).
   - [Tracey](http://github.com/r-lyeh/tracey) -- lightweight and simple C++ memory *leak finder* with no dependencies. :star2:
+* **Design**
+  - [Pitch](https://github.com/r-lyeh/pitch) -- game *template pitch* (Markdown).
 * **Encoding**
   - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
   - [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
@@ -62,6 +64,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Flow](https://github.com/r-lyeh/flow) -- lightweight network downloader with native fallbacks aimed to gamedev (C++11).
   - [Knot](http://github.com/r-lyeh/knot) -- lightweight and simple *TCP networking* C++ library (C++03).
   - [Route66](https://github.com/r-lyeh/route66) -- lightweight *embeddable HTTP server* (C++03).
+  - [VLE](https://github.com/r-lyeh/vle) -- simple *variable-length encoder/decoder* (C99)(C++03).
 * **Security**
   - [Auth](http://github.com/r-lyeh/auth) -- simple, lightweight and safe client-server *authentication system* (C++).
   - [Vault](http://github.com/r-lyeh/vault) -- lightweight and simple *crypt library* that provides interface for ARC4 (C++03).
@@ -89,11 +92,9 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
 * [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
-* [Pitch](https://github.com/r-lyeh/pitch) -- game *template pitch*.
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
-* [VLE](https://github.com/r-lyeh/vle) -- simple *variable-length encoder/decoder* (C99)(C++03).
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
 
