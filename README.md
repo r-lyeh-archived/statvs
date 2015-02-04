@@ -38,7 +38,7 @@ Fully released / tested; more features may be incoming, but these are considered
   - [Tracey](http://github.com/r-lyeh/tracey) -- lightweight and simple C++ memory *leak finder* with no dependencies. :star2:
 * **Design**
   - [Gamebook](https://github.com/r-lyeh/gamebook) -- unified *game design document* (CC0, Markdown).
-  - [Pitch](https://github.com/r-lyeh/pitch) -- game *template pitch* (Markdown).
+  - [Pitch](https://github.com/r-lyeh/pitch) -- forkable game *pitch template* (CC0, Markdown).
 * **Encoding**
   - [Base91x](http://github.com/r-lyeh/base91x) -- lightweight *binary-to-text encoder/decoder* smaller than base64 (C++03). 
   - [Collage](https://github.com/r-lyeh/collage) -- lightweight library to *diff and patch* arbitrary data (C++03).
