@@ -54,8 +54,9 @@ Fully released / tested; more features may be incoming, but these are considered
   - [ID](http://github.com/r-lyeh/id) -- simple *compile-time hasher* and sequential ID generator (C++11).
   - [Sole](http://github.com/r-lyeh/sole) -- lightweight library to generate universally *unique identificators* (UUID) both v1 and v4 (C++11). :star2:
 * **Image**
-  - [Pug](https://github.com/r-lyeh/pug) -- *pug, png with a twist*: lossy image format. (spec/tools)
-  - [Spot](http://github.com/r-lyeh/spot) -- compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC and vectorial SVG files*. (C++03). :star2:
+  - [Attila](https://github.com/r-lyeh/attila) -- tiny *atlas texture/image packer tool* (tool). :star2:
+  - [Pug](https://github.com/r-lyeh/pug) -- *pug, png with a twist*: lossy image format (spec/tools).
+  - [Spot](http://github.com/r-lyeh/spot) -- compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC and vectorial SVG files* (C++03). :star2:
 * **Input**
   - [Hyde](http://github.com/r-lyeh/hyde) -- lightweight and simple Human *Inferface Device* (HID) library (C++03). 
 * **I/O**
@@ -104,7 +105,6 @@ In Progress
 
 Proof-of-concepts until stabilised, currently in active development.
 
-* [Attila](https://github.com/r-lyeh/attila) -- Simple and lightweight *atlas texture/image packer*.
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
 * [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
