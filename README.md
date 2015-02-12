@@ -7,11 +7,8 @@ This repo is meant to be a semi-conclusive list of projects in which the author 
 
 A few notes:
 
-- My specifications are Public Domain or CC0.
-- My libraries are Public Domain or _BOOST licensed_ (~MIT equivalent with no attribution required in binary distributions).
-- My libraries follow this convention: `.hpp/.cpp` for libraries, `.cc` for samples, `.cxx` for tests and benchmarks.
-- Most of my libraries are _cross-platform_, have _no external dependencies_ and are _header-only_ wherever possible.
-- Many of my libraries have been used in _commercial games_. They are, or should be, battle-tested.
+- The specifications below are Public Domain or CC0.
+- The libraries below are Public Domain or _BOOST licensed_ (~MIT equivalent with no attribution required in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 
 Released
 ----
