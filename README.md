@@ -15,8 +15,8 @@ Released
 
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
 
-| Tags    | Repository  |
-|:-------|:------------|
+| Tags             | Repository  |
+|:----------------:|:------------|
 | io               | [Apathy (C++11)](http://github.com/r-lyeh/apathy) <br/> lightweight *stream/file/mmap/path/virtual-filesystem* IO library.
 | spec             | [ARYA](http://github.com/r-lyeh/ARYA) <br/> CC0 *asset naming convention*.
 | debug            | [Assert++ (C++03)](http://github.com/r-lyeh/assert) <br/> a smart *assert replacement* for LHS/RHS values.
@@ -33,7 +33,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | network          | [Flow (C++11)](https://github.com/r-lyeh/flow) <br/> lightweight network downloader with native fallbacks aimed to gamedev.
 | gameplay         | [Frodo (C++11)](https://github.com/r-lyeh/frodo) <br/> lightweight *ring dependency framework*.
 | gameplay         | [FSM (C++11)](http://github.com/r-lyeh/fsm) <br/> lightweight Hierarchical/*Finite-State Machine* (H/FSM) class.
-| design           | [Gamebook (C++11)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document* (CC0, Markdown).
+| design           | [Gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
 | io               | [Giant (C++11)](http://github.com/r-lyeh/giant) <br/> tiny library to *handle little/big endianness*.
 | debug            | [Heal (C++03)](http://github.com/r-lyeh/heal) <br/> lightweight library to aid and *debug applications*.
 | input            | [Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
@@ -47,7 +47,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | spec,serial      | [Medea (C++11)](http://github.com/r-lyeh/medea) <br/> lightweight and *tiny serializer*. In mythology, also Jason's wife.
 | gameplay         | [Memo (C++11)](http://github.com/r-lyeh/memo) <br/> simple and lightweight *factory class*, featuring automatic type casting.
 | data-structures  | [Oak (C++03)](http://github.com/r-lyeh/oak) <br/> simple and lightweight *tree container*.
-| design           | [Pitch (C++11)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template* (CC0, ).
+| design           | [Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
 | spec,tool,image  | [Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format.
 | network          | [Route66 (C++03)](https://github.com/r-lyeh/route66) <br/> lightweight *embeddable HTTP server*.
 | time             | [Sand (C++11)](http://github.com/r-lyeh/sand) <br/> lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales.
@@ -55,7 +55,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | image            | [Spot (C++11):star2:](http://github.com/r-lyeh/spot) <a href="https://travis-ci.org/r-lyeh/spot"><img src="https://api.travis-ci.org/r-lyeh/spot.svg?branch=master" align="right" /></a> <br/> compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC, PUG, PNM (PPM/PGM) and vectorial SVG files*.
 | databases        | [SQLight (C++11)](http://github.com/r-lyeh/sqlight) <br/> lightweight *MySQL client*.
 | debug            | [Tracey (C++11):star2:](http://github.com/r-lyeh/tracey) <br/> lightweight and simple C++ memory *leak finder* with no dependencies.
-| data-structures  | [Trie (C++11)](http://github.com/r-lyeh/trie) <br/> lightweight and simple *autocompletion* data structure (C++11).
+| data-structures  | [Trie (C++11)](http://github.com/r-lyeh/trie) <br/> lightweight and simple *autocompletion* data structure.
 | animation        | [Tween (C++03)](https://github.com/r-lyeh/tween) <br/> lightweight *easing library*.
 | data-structures  | [Unordered_map (C++11)](http://github.com/r-lyeh/unordered_map) <br/> *portable header* for std::unordered_map<K,V> template.
 | security         | [Vault (C++03)](http://github.com/r-lyeh/vault) <br/> lightweight and simple *crypt library* that provides interface for ARC4.
