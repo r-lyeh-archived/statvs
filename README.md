@@ -23,6 +23,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | tool, image      | [Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
 | security         | [Auth (C++03)](http://github.com/r-lyeh/auth) <br/> simple, lightweight and safe client-server *authentication system*.
 | encoding         | [Base91x (C++03)](http://github.com/r-lyeh/base91x) <br/> lightweight *binary-to-text encoder/decoder* smaller than base64.
+| serial           | [Bourne (C++11)](http://github.com/r-lyeh/bourne) <br/> lightweight *JSON serializer*.
 | user-interface   | [Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple and lightweight *dialog library for Windows*.
 | compression      | [Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO. |
 | compression,tool | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
@@ -44,7 +45,6 @@ Fully released / tested; more features may be incoming, but these are considered
 | gameplay         | [Kult (C++11):star2:](https://github.com/r-lyeh/kult) <br/> lightweight *entity/component/system* library.
 | gameplay         | [Live (C++11)](http://github.com/r-lyeh/live) <br/> *automatic reloader* of variables, featuring type inference.
 | data-structures  | [LRU (C++11)](https://github.com/r-lyeh/lru) <br/> lightweight *LRU cache structure* for list<T> and map<K,V> containers.
-| spec,serial      | [Medea (C++11)](http://github.com/r-lyeh/medea) <br/> lightweight and *tiny serializer*. In mythology, also Jason's wife.
 | gameplay         | [Memo (C++11)](http://github.com/r-lyeh/memo) <br/> simple and lightweight *factory class*, featuring automatic type casting.
 | data-structures  | [Oak (C++03)](http://github.com/r-lyeh/oak) <br/> simple and lightweight *tree container*.
 | design           | [Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
