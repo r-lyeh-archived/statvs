@@ -23,13 +23,13 @@ Fully released / tested; more features may be incoming, but these are considered
 | tool, image      | [Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
 | security         | [Auth (C++03)](http://github.com/r-lyeh/auth) <br/> simple, lightweight and safe client-server *authentication system*.
 | encoding         | [Base91x (C++03)](http://github.com/r-lyeh/base91x) <br/> lightweight *binary-to-text encoder/decoder* smaller than base64.
-| serial           | [Bourne (C++11)](http://github.com/r-lyeh/bourne) <br/> lightweight *JSON serializer*.
+| serial           | [Bourne (C++11)](http://github.com/r-lyeh/bourne) <a href="https://travis-ci.org/r-lyeh/bourne"><img src="https://api.travis-ci.org/r-lyeh/bourne.svg?branch=master" align="right" /></a> <br/> lightweight *JSON serializer*.
 | user-interface   | [Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple and lightweight *dialog library for Windows*.
 | compression      | [Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO. |
 | compression,tool | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
 | hashing          | [Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
 | encoding         | [Collage (C++03)](https://github.com/r-lyeh/collage) <br/> lightweight library to *diff and patch* arbitrary data.
-| unit-testing     | [Dessert (C++11):star2:](http://github.com/r-lyeh/dessert) <br/> lightweight *unit-testing framework*.
+| unit-testing     | [Dessert (C++11):star2:](http://github.com/r-lyeh/dessert) <a href="https://travis-ci.org/r-lyeh/dessert"><img src="https://api.travis-ci.org/r-lyeh/dessert.svg?branch=master" align="right" /></a> <br/> lightweight *unit-testing framework*.
 | gameplay         | [Flare (C++03)](https://github.com/r-lyeh/flare) <br/> lightweight C++ API to deal with *digital signals/logical buttons*.
 | network          | [Flow (C++11)](https://github.com/r-lyeh/flow) <br/> lightweight network downloader with native fallbacks aimed to gamedev.
 | gameplay         | [Frodo (C++11)](https://github.com/r-lyeh/frodo) <br/> lightweight *ring dependency framework*.
