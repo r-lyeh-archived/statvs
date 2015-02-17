@@ -28,7 +28,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | compression      | [Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO. |
 | compression,tool | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
 | hashing          | [Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
-| encoding         | [Collage (C++03)](https://github.com/r-lyeh/collage) <br/> lightweight library to *diff and patch* arbitrary data.
+| encoding         | [Collage (C++03)](https://github.com/r-lyeh/collage) <a href="https://travis-ci.org/r-lyeh/collage"><img src="https://api.travis-ci.org/r-lyeh/collage.svg?branch=master" align="right" /></a> <br/> lightweight library to *diff and patch* arbitrary data.
 | unit-testing     | [Dessert (C++11):star2:](http://github.com/r-lyeh/dessert) <a href="https://travis-ci.org/r-lyeh/dessert"><img src="https://api.travis-ci.org/r-lyeh/dessert.svg?branch=master" align="right" /></a> <br/> lightweight *unit-testing framework*.
 | gameplay         | [Flare (C++03)](https://github.com/r-lyeh/flare) <br/> lightweight C++ API to deal with *digital signals/logical buttons*.
 | network          | [Flow (C++11)](https://github.com/r-lyeh/flow) <br/> lightweight network downloader with native fallbacks aimed to gamedev.
@@ -59,7 +59,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | animation        | [Tween (C++03)](https://github.com/r-lyeh/tween) <br/> lightweight *easing library*.
 | data-structures  | [Unordered_map (C++11)](http://github.com/r-lyeh/unordered_map) <br/> *portable header* for std::unordered_map<K,V> template.
 | security         | [Vault (C++03)](http://github.com/r-lyeh/vault) <br/> lightweight and simple *crypt library* that provides interface for ARC4.
-| network          | [VLE (C99, C++03)](https://github.com/r-lyeh/vle) <br/> simple *variable-length encoder/decoder*.
+| network          | [VLE (C99, C++03)](https://github.com/r-lyeh/vle) <a href="https://travis-ci.org/r-lyeh/vle"><img src="https://api.travis-ci.org/r-lyeh/vle.svg?branch=master" align="right" /></a> <br/> simple *variable-length encoder/decoder*.
 | audio            | [Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 | data-structures  | [Wire (C++03):star2:](http://github.com/r-lyeh/wire) <br/> a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters.
 
