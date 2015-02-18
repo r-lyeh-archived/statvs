@@ -27,9 +27,11 @@ Fully released / tested; more features may be incoming, but these are considered
 | user-interface   | [Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple and lightweight *dialog library for Windows*.
 | compression      | [Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO. |
 | compression,tool | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
+| data-structures  | [Burg (C++11)](https://github.com/r-lyeh/burg) <a href="https://travis-ci.org/r-lyeh/burg"><img src="https://api.travis-ci.org/r-lyeh/burg.svg?branch=master" align="right" /></a> <br/> simple burg *linear predictor*.
 | hashing          | [Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <a href="https://travis-ci.org/r-lyeh/cocoa"><img src="https://api.travis-ci.org/r-lyeh/cocoa.svg?branch=master" align="right" /></a> <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
 | encoding         | [Collage (C++03)](https://github.com/r-lyeh/collage) <a href="https://travis-ci.org/r-lyeh/collage"><img src="https://api.travis-ci.org/r-lyeh/collage.svg?branch=master" align="right" /></a> <br/> lightweight library to *diff and patch* arbitrary data.
 | unit-testing     | [Dessert (C++11):star2:](http://github.com/r-lyeh/dessert) <a href="https://travis-ci.org/r-lyeh/dessert"><img src="https://api.travis-ci.org/r-lyeh/dessert.svg?branch=master" align="right" /></a> <br/> lightweight *unit-testing framework*.
+| debug            | [DrEcho (C++11)](http://github.com/r-lyeh/DrEcho) <a href="https://travis-ci.org/r-lyeh/DrEcho"><img src="https://api.travis-ci.org/r-lyeh/DrEcho.svg?branch=master" align="right" /></a> <br/> DrEcho *spices your terminal up*.
 | gameplay         | [Flare (C++03)](https://github.com/r-lyeh/flare) <a href="https://travis-ci.org/r-lyeh/flare"><img src="https://api.travis-ci.org/r-lyeh/flare.svg?branch=master" align="right" /></a> <br/> lightweight C++ API to deal with *digital signals/logical buttons*.
 | network          | [Flow (C++11)](https://github.com/r-lyeh/flow) <a href="https://travis-ci.org/r-lyeh/flow"><img src="https://api.travis-ci.org/r-lyeh/flow.svg?branch=master" align="right" /></a> <br/> lightweight network downloader with native fallbacks aimed to gamedev.
 | gameplay         | [Frodo (C++11)](https://github.com/r-lyeh/frodo) <a href="https://travis-ci.org/r-lyeh/frodo"><img src="https://api.travis-ci.org/r-lyeh/frodo.svg?branch=master" align="right" /></a> <br/> lightweight *ring dependency framework*.
@@ -69,11 +71,9 @@ Personal
 
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
 
-* [Burg](https://github.com/r-lyeh/burg) -- a simple burg linear predictor (C++11).
 * [Bridge](https://github.com/r-lyeh/bridge) -- a standard C++/boost *compatibility layer*, plus a few utils (C++11/C++03).
 * [Cash-of-clans](https://github.com/r-lyeh/cash-of-clans) -- a free re-implementation of a working *game economy system*.
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
-* [DrEcho](https://github.com/r-lyeh/DrEcho) -- DrEcho *spices your terminal up* (C++11).
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
