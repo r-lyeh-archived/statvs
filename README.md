@@ -7,42 +7,26 @@ This repo is meant to be a semi-conclusive list of projects in which the author 
 
 A few notes:
 
-- The tools below are Public Domain.
-- The specifications below are Public Domain or CC0; in Markdown flavor.
-- The libraries below are Public Domain or _BOOST licensed_ (~lesser MIT equivalent with optional attribution in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
+- The specifications below are Public Domain or CC0.
+- The libraries below are Public Domain or _BOOST licensed_ (~lesser MIT equivalent where explicit attribution in binary distributions is optional); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 
-## Released tools
-Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
+Released
+----
 
-| Tags             | Repository  |
-|:----------------:|:------------|
-| image            | [Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
-| compression      | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*: DEFLATE, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO streams in a ZIP file.
-
-## Released specs
-Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
-
-| Tags             | Repository  |
-|:----------------:|:------------|
-| spec             | [ARYA](http://github.com/r-lyeh/ARYA) <br/> CC0 *asset naming convention*.
-| design           | [Gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
-| spec             | [JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs).
-| spec             | [JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML).
-| design           | [Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
-| spec,tool,image  | [Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format.
-
-## Released libraries
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
 
 | Tags             | Repository  |
 |:----------------:|:------------|
 | io               | [Apathy (C++11)](http://github.com/r-lyeh/apathy) <a href="https://travis-ci.org/r-lyeh/apathy"><img src="https://api.travis-ci.org/r-lyeh/apathy.svg?branch=master" align="right" /></a> <br/> lightweight *stream/file/mmap/path/virtual-filesystem* IO library.
+| spec             | [ARYA](http://github.com/r-lyeh/ARYA) <br/> CC0 *asset naming convention*.
 | debug            | [Assert++ (C++03)](http://github.com/r-lyeh/assert) <a href="https://travis-ci.org/r-lyeh/assert"><img src="https://api.travis-ci.org/r-lyeh/assert.svg?branch=master" align="right" /></a> <br/> a smart *assert replacement* for LHS/RHS values.
+| tool, image      | [Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
 | security         | [Auth (C++03)](http://github.com/r-lyeh/auth) <a href="https://travis-ci.org/r-lyeh/auth"><img src="https://api.travis-ci.org/r-lyeh/auth.svg?branch=master" align="right" /></a> <br/> simple, lightweight and safe client-server *authentication system*.
 | encoding         | [Base91x (C++03)](http://github.com/r-lyeh/base91x) <a href="https://travis-ci.org/r-lyeh/base91x"><img src="https://api.travis-ci.org/r-lyeh/base91x.svg?branch=master" align="right" /></a> <br/> lightweight *binary-to-text encoder/decoder* smaller than base64.
 | serial           | [Bourne (C++11)](http://github.com/r-lyeh/bourne) <a href="https://travis-ci.org/r-lyeh/bourne"><img src="https://api.travis-ci.org/r-lyeh/bourne.svg?branch=master" align="right" /></a> <br/> lightweight *JSON serializer*.
 | user-interface   | [Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple and lightweight *dialog library for Windows*.
 | compression      | [Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI and SHOCO. |
+| compression,tool | [Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
 | data-structures  | [Burg (C++11)](https://github.com/r-lyeh/burg) <a href="https://travis-ci.org/r-lyeh/burg"><img src="https://api.travis-ci.org/r-lyeh/burg.svg?branch=master" align="right" /></a> <br/> simple burg *linear predictor*.
 | hashing          | [Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <a href="https://travis-ci.org/r-lyeh/cocoa"><img src="https://api.travis-ci.org/r-lyeh/cocoa.svg?branch=master" align="right" /></a> <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
 | encoding         | [Collage (C++03)](https://github.com/r-lyeh/collage) <a href="https://travis-ci.org/r-lyeh/collage"><img src="https://api.travis-ci.org/r-lyeh/collage.svg?branch=master" align="right" /></a> <br/> lightweight library to *diff and patch* arbitrary data.
@@ -52,16 +36,21 @@ Fully released / tested; more features may be incoming, but these are considered
 | network          | [Flow (C++11)](https://github.com/r-lyeh/flow) <a href="https://travis-ci.org/r-lyeh/flow"><img src="https://api.travis-ci.org/r-lyeh/flow.svg?branch=master" align="right" /></a> <br/> lightweight network downloader with native fallbacks aimed to gamedev.
 | gameplay         | [Frodo (C++11)](https://github.com/r-lyeh/frodo) <a href="https://travis-ci.org/r-lyeh/frodo"><img src="https://api.travis-ci.org/r-lyeh/frodo.svg?branch=master" align="right" /></a> <br/> lightweight *ring dependency framework*.
 | gameplay         | [FSM (C++11)](http://github.com/r-lyeh/fsm) <a href="https://travis-ci.org/r-lyeh/fsm"><img src="https://api.travis-ci.org/r-lyeh/fsm.svg?branch=master" align="right" /></a> <br/> lightweight Hierarchical/*Finite-State Machine* (H/FSM) class.
+| design           | [Gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
 | io               | [Giant (C++11)](http://github.com/r-lyeh/giant) <a href="https://travis-ci.org/r-lyeh/giant"><img src="https://api.travis-ci.org/r-lyeh/giant.svg?branch=master" align="right" /></a> <br/> tiny library to *handle little/big endianness*.
 | debug            | [Heal (C++03)](http://github.com/r-lyeh/heal) <a href="https://travis-ci.org/r-lyeh/heal"><img src="https://api.travis-ci.org/r-lyeh/heal.svg?branch=master" align="right" /></a> <br/> lightweight library to aid and *debug applications*.
 | input            | [Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
 | hashing          | [ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator.
+| spec             | [JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs).
+| spec             | [JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML).
 | network          | [Knot (C++03)](http://github.com/r-lyeh/knot) <a href="https://travis-ci.org/r-lyeh/knot"><img src="https://api.travis-ci.org/r-lyeh/knot.svg?branch=master" align="right" /></a> <br/> lightweight and simple *TCP networking* C++ library.
 | gameplay         | [Kult (C++11):star2:](https://github.com/r-lyeh/kult) <a href="https://travis-ci.org/r-lyeh/kult"><img src="https://api.travis-ci.org/r-lyeh/kult.svg?branch=master" align="right" /></a> <br/> lightweight *entity/component/system* library.
 | gameplay         | [Live (C++11)](http://github.com/r-lyeh/live) <a href="https://travis-ci.org/r-lyeh/live"><img src="https://api.travis-ci.org/r-lyeh/live.svg?branch=master" align="right" /></a> <br/> *automatic reloader* of variables, featuring type inference.
 | data-structures  | [LRU (C++11)](https://github.com/r-lyeh/lru) <a href="https://travis-ci.org/r-lyeh/LRU"><img src="https://api.travis-ci.org/r-lyeh/LRU.svg?branch=master" align="right" /></a> <br/> lightweight *LRU cache structure* for list<T> and map<K,V> containers.
 | gameplay         | [Memo (C++11)](http://github.com/r-lyeh/memo) <a href="https://travis-ci.org/r-lyeh/memo"><img src="https://api.travis-ci.org/r-lyeh/memo.svg?branch=master" align="right" /></a> <br/> simple and lightweight *factory class*, featuring automatic type casting.
 | data-structures  | [Oak (C++03)](http://github.com/r-lyeh/oak) <a href="https://travis-ci.org/r-lyeh/oak"><img src="https://api.travis-ci.org/r-lyeh/oak.svg?branch=master" align="right" /></a> <br/> simple and lightweight *tree container*.
+| design           | [Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
+| spec,tool,image  | [Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format.
 | network          | [Route66 (C++03)](https://github.com/r-lyeh/route66) <a href="https://travis-ci.org/r-lyeh/route66"><img src="https://api.travis-ci.org/r-lyeh/route66.svg?branch=master" align="right" /></a> <br/> lightweight *embeddable HTTP server*.
 | time             | [Sand (C++11)](http://github.com/r-lyeh/sand) <a href="https://travis-ci.org/r-lyeh/sand"><img src="https://api.travis-ci.org/r-lyeh/sand.svg?branch=master" align="right" /></a> <br/> lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales.
 | hashing          | [Sole (C++11):star2:](http://github.com/r-lyeh/sole) <a href="https://travis-ci.org/r-lyeh/sole"><img src="https://api.travis-ci.org/r-lyeh/sole.svg?branch=master" align="right" /></a> <br/> lightweight library to generate universally *unique identificators* (UUID) both v1 and v4.
@@ -77,7 +66,9 @@ Fully released / tested; more features may be incoming, but these are considered
 | data-structures  | [Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters.
 
 
-## Personal
+Personal
+----
+
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
 
 * [Bridge](https://github.com/r-lyeh/bridge) -- a standard C++/boost *compatibility layer*, plus a few utils (C++11/C++03).
@@ -90,7 +81,9 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
 
-## In Progress
+In Progress
+----
+
 Proof-of-concepts until stabilised, currently in active development.
 
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
@@ -103,19 +96,25 @@ Proof-of-concepts until stabilised, currently in active development.
 * [juice]() --
 * [graybox]() --
 
-## Contributions
+Contributions
+----
+
 Projects in collaboration with other coders.
 
 * [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
 
-## On Hold
+On Hold
+----
+
 Each of these projects are suffering from an existential crisis.
 
 * [Fontbase](http://github.com/r-lyeh/fontbase) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
 * [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps. 
 
-## Planned
+Planned
+----
+
 Yet to be committed, removed and/or finished. Someday.
 
 * [Blender](http://github.com/r-lyeh/blender)
@@ -134,7 +133,9 @@ Yet to be committed, removed and/or finished. Someday.
 * [Unposix](https://github.com/r-lyeh/unposix)
 * [Wrapp](https://github.com/r-lyeh/wrapp)
 
-## Abandoned
+Abandoned
+----
+
 Help, I've fallen and can't get up!
 
 These are either fully abandoned, or are buggy class-related repositories for classes which are finished.
@@ -142,7 +143,9 @@ These are either fully abandoned, or are buggy class-related repositories for cl
 * [Moon9](https://github.com/r-lyeh/moon9) -- old game engine
 * [Wood](https://github.com/r-lyeh/wood) -- old tree data structure
 
-## Resume
+Resume
+---
+
 For completeness.
 
 * [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable *C++ resume*
