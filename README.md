@@ -42,8 +42,8 @@ Fully released / tested; more features may be incoming, but these are considered
 | debug            | [Heal (C++03)](http://github.com/r-lyeh/heal) <a href="https://travis-ci.org/r-lyeh/heal"><img src="https://api.travis-ci.org/r-lyeh/heal.svg?branch=master" align="right" /></a> <br/> lightweight library to aid and *debug applications*. |
 | input            | [Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library. |
 | hashing          | [ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator. |
-| spec             | [JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs). |
-| spec             | [JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML* that is based on [JSONx](http://goo.gl/I3cxs) and [JXML](http://github.com/r-lyeh/JXML). |
+| spec             | [JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML*. |
+| spec             | [JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML*. |
 | network          | [Knot (C++03)](http://github.com/r-lyeh/knot) <a href="https://travis-ci.org/r-lyeh/knot"><img src="https://api.travis-ci.org/r-lyeh/knot.svg?branch=master" align="right" /></a> <br/> lightweight and simple *TCP networking* C++ library. |
 | gameplay         | [Kult (C++11):star2:](https://github.com/r-lyeh/kult) <a href="https://travis-ci.org/r-lyeh/kult"><img src="https://api.travis-ci.org/r-lyeh/kult.svg?branch=master" align="right" /></a> <br/> lightweight *entity/component/system* library. |
 | gameplay         | [Live (C++11)](http://github.com/r-lyeh/live) <a href="https://travis-ci.org/r-lyeh/live"><img src="https://api.travis-ci.org/r-lyeh/live.svg?branch=master" align="right" /></a> <br/> *automatic reloader* of variables, featuring type inference. |
