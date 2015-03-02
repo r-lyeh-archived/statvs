@@ -54,6 +54,7 @@ Fully released / tested; more features may be incoming, but these are considered
 | spec,tool,image  | [Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format. |
 | network          | [Route66 (C++03)](https://github.com/r-lyeh/route66) <a href="https://travis-ci.org/r-lyeh/route66"><img src="https://api.travis-ci.org/r-lyeh/route66.svg?branch=master" align="right" /></a> <br/> lightweight *embeddable HTTP server*. |
 | time             | [Sand (C++11)](http://github.com/r-lyeh/sand) <a href="https://travis-ci.org/r-lyeh/sand"><img src="https://api.travis-ci.org/r-lyeh/sand.svg?branch=master" align="right" /></a> <br/> lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales. |
+| data             | [Sentry (C++11)](https://github.com/r-lyeh/sentry) <a href="https://travis-ci.org/r-lyeh/sentry"><img src="https://api.travis-ci.org/r-lyeh/sentry.svg?branch=master" align="right" /></a> <br/> lightweight *data monitor*. |
 | hashing          | [Sole (C++11):star2:](http://github.com/r-lyeh/sole) <a href="https://travis-ci.org/r-lyeh/sole"><img src="https://api.travis-ci.org/r-lyeh/sole.svg?branch=master" align="right" /></a> <br/> lightweight library to generate universally *unique identificators* (UUID) both v1 and v4. |
 | image            | [Spot (C++11):star2:](http://github.com/r-lyeh/spot) <a href="https://travis-ci.org/r-lyeh/spot"><img src="https://api.travis-ci.org/r-lyeh/spot.svg?branch=master" align="right" /></a> <br/> compact and embeddable RGBA/HSLA library that supports *WebP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PKM (ETC1), PVR (PVRTC), HDR, PIC, PUG, PNM (PPM/PGM) and vectorial SVG files*. |
 | databases        | [SQLight (C++11)](http://github.com/r-lyeh/sqlight) <a href="https://travis-ci.org/r-lyeh/sqlight"><img src="https://api.travis-ci.org/r-lyeh/sqlight.svg?branch=master" align="right" /></a> <br/> lightweight *MySQL client*. |
@@ -77,7 +78,6 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Codex](https://github.com/r-lyeh/codex) -- lightweight and simple C++ library to escape, unescape, read, write and convert from/to different *encoding charsets*.
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
-* [Sentry](https://github.com/r-lyeh/sentry) -- lightweight *data monitor* (C++11).
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
