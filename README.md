@@ -88,7 +88,6 @@ In Progress
 Proof-of-concepts until stabilised, currently in active development.
 
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
-* [Haikui](https://github.com/r-lyeh/haikui) -- UI library where everything is a *grid*.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
