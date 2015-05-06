@@ -42,7 +42,7 @@ io|[Giant (C++11)](http://github.com/r-lyeh/giant) <a href="https://travis-ci.or
 debug|[Heal (C++03)](http://github.com/r-lyeh/heal) <a href="https://travis-ci.org/r-lyeh/heal"><img src="https://api.travis-ci.org/r-lyeh/heal.svg?branch=master" align="right" /></a> <br/> lightweight library to aid and *debug applications*.
 input|[Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
 hashing|[ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator.
-mesh, tool|[img2sky](http://github.com/r-lyeh/img2sky) <br/> vertex-color mesh builder tool for skyboxes and static geometry, as seen in HomeWorld 2 .HOD files
+mesh, tool|[Img2Sky](http://github.com/r-lyeh/img2sky) <br/> *vertex-color mesh builder tool* for skyboxes and static geometry.
 spec|[JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML*.
 spec|[JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML*.
 network|[Knot (C++03)](http://github.com/r-lyeh/knot) <a href="https://travis-ci.org/r-lyeh/knot"><img src="https://api.travis-ci.org/r-lyeh/knot.svg?branch=master" align="right" /></a> <br/> lightweight and simple *TCP networking* C++ library.
