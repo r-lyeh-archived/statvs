@@ -50,6 +50,7 @@ gameplay|[Kult (C++11):star2:](https://github.com/r-lyeh/kult) <a href="https://
 gameplay|[Live (C++11)](http://github.com/r-lyeh/live) <a href="https://travis-ci.org/r-lyeh/live"><img src="https://api.travis-ci.org/r-lyeh/live.svg?branch=master" align="right" /></a> <br/> *automatic reloader* of variables, featuring type inference.
 data-structures|[LRU (C++11)](https://github.com/r-lyeh/lru) <a href="https://travis-ci.org/r-lyeh/LRU"><img src="https://api.travis-ci.org/r-lyeh/LRU.svg?branch=master" align="right" /></a> <br/> lightweight *LRU cache structure* for list<T> and map<K,V> containers.
 gameplay|[Memo (C++11)](http://github.com/r-lyeh/memo) <a href="https://travis-ci.org/r-lyeh/memo"><img src="https://api.travis-ci.org/r-lyeh/memo.svg?branch=master" align="right" /></a> <br/> simple and lightweight *factory class*, featuring automatic type casting.
+stats|[Metrics (C++11)](https://github.com/r-lyeh/metrics) <a href="https://travis-ci.org/r-lyeh/metrics"><img src="https://api.travis-ci.org/r-lyeh/metrics.svg?branch=master" align="right" /></a> <br/> table metrics w/ benchmarking, unit conversions in CSV,TSV,ASCII,markdown.
 data-structures|[Oak (C++03)](http://github.com/r-lyeh/oak) <a href="https://travis-ci.org/r-lyeh/oak"><img src="https://api.travis-ci.org/r-lyeh/oak.svg?branch=master" align="right" /></a> <br/> simple and lightweight *tree container*.
 design|[Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
 debug|[Profit (C++11)](https://github.com/r-lyeh/profit) <a href="https://travis-ci.org/r-lyeh/profit"><img src="https://api.travis-ci.org/r-lyeh/profit.svg?branch=master" align="right" /></a> <br> portable/generic *CPU profiler*.
@@ -102,7 +103,7 @@ Proof-of-concepts until stabilised, currently in active development.
 Contributions
 ----
 
-Projects in collaboration with other coders.
+Forked projects or in collaboration with other coders.
 
 * [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
@@ -136,7 +137,7 @@ These are either fully abandoned, or are suffering from an existential crisis.
 
 * [Fontbase](http://github.com/r-lyeh/fontbase) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
 * [Moon9](https://github.com/r-lyeh/moon9) -- old game engine.
-* [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps. 
+* [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps.
 * [Wood](https://github.com/r-lyeh/wood) -- old tree data structure.
 
 Resume
