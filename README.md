@@ -106,6 +106,7 @@ Projects in collaboration with other coders.
 
 * [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
+* [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
 
 Planned
 ----
@@ -134,13 +135,13 @@ On Hold / Abandoned
 These are either fully abandoned, or are suffering from an existential crisis.
 
 * [Fontbase](http://github.com/r-lyeh/fontbase) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
-* [Moon9](https://github.com/r-lyeh/moon9) -- old game engine
+* [Moon9](https://github.com/r-lyeh/moon9) -- old game engine.
 * [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps. 
-* [Wood](https://github.com/r-lyeh/wood) -- old tree data structure
+* [Wood](https://github.com/r-lyeh/wood) -- old tree data structure.
 
 Resume
 ---
 
 For completeness.
 
-* [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable *C++ resume*
+* [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable *C++ resume*-
