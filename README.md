@@ -9,7 +9,7 @@ A few notes:
 
 - The tools below are Public Domain.
 - The specifications below are Public Domain or CC0; in Markdown flavor.
-- The libraries below are Public Domain or _BOOST licensed_ (~lesser MIT equivalent with optional attribution in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
+- The libraries below are Public Domain or _zlib/libpng licensed_ (~lesser MIT equivalent with optional attribution in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 
 Released
 ----
