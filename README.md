@@ -97,8 +97,9 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
 * [Wake](https://github.com/r-lyeh/wake)
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
-* [juice]() --
-* [graybox]() --
+* [Juice]() --
+* [Graybox]() --
+* [Drop]() --
 
 Contributions
 ----
