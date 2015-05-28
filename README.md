@@ -100,6 +100,8 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Juice]() --
 * [Graybox]() --
 * [Drop]() --
+* [Quant]() --
+* [Checklist]() --
 
 Contributions
 ----
