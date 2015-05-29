@@ -11,9 +11,7 @@ A few notes:
 - The specifications below are Public Domain or CC0; in Markdown flavor.
 - The libraries below are Public Domain or _zlib/libpng licensed_ (~lesser MIT equivalent with optional attribution in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 
-Released
-----
-
+## Released
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
 
 Tags|Repository
@@ -72,10 +70,7 @@ network|[VLE (C99, C++03)](https://github.com/r-lyeh/vle) <a href="https://travi
 audio|[Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 data-structures|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters.
 
-
-Personal
-----
-
+## Personal
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
 
 * [Bridge](https://github.com/r-lyeh/bridge) -- a standard C++/boost *compatibility layer*, plus a few utils (C++11/C++03).
@@ -87,9 +82,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
 
-In Progress
-----
-
+## In Progress
 Proof-of-concepts until stabilised, currently in active development.
 
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
@@ -101,21 +94,16 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Juice]() --
 * [Graybox]() --
 * [Drop]() --
-* [Quant]() --
 * [Checklist]() --
 
-Contributions
-----
-
+## Contributions
 Forked projects or in collaboration with other coders.
 
 * [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
 * [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
 
-Planned
-----
-
+## Planned
 Yet to be committed, removed and/or finished. Someday.
 
 * [Blender](http://github.com/r-lyeh/blender)
@@ -134,9 +122,7 @@ Yet to be committed, removed and/or finished. Someday.
 * [Unposix](https://github.com/r-lyeh/unposix)
 * [Wrapp](https://github.com/r-lyeh/wrapp)
 
-On Hold / Abandoned
--------------------
-
+## On Hold / Abandoned
 These are either fully abandoned, or are suffering from an existential crisis.
 
 * [Fontbase](http://github.com/r-lyeh/fontbase) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
@@ -144,9 +130,7 @@ These are either fully abandoned, or are suffering from an existential crisis.
 * [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps.
 * [Wood](https://github.com/r-lyeh/wood) -- old tree data structure.
 
-Resume
----
-
+## Resume
 For completeness.
 
-* [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable *C++ resume*-
+* [Vitae](http://github.com/r-lyeh/vitae) -- my self-compilable *C++ resume*.
