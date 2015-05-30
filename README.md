@@ -8,8 +8,8 @@ This repo is meant to be a semi-conclusive list of projects in which the author 
 - The tools below are Public Domain.
 - The specifications below are Public Domain (or CC0 licensed), written in Markdown.
 - The libraries below are Public Domain (or _ZLIB/LibPNG licensed_), written in C++.
-- Extension convention: `.md` for documents, `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 - Most of my source code is (where possible) _cross-platform_, _header-only_ and _self-contained_, and have been used in _commercial games_. It is therefore pretty much battle-tested, but use it at your own risk. No warranties provided.
+- Extension convention: `.md` for documents, `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
 
 ## Released
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
