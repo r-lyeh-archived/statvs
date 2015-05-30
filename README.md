@@ -5,11 +5,11 @@ My name is r-lyeh and I code videogames :neckbeard:
 
 This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
-A few notes:
-
 - The tools below are Public Domain.
-- The specifications below are Public Domain or CC0; in Markdown flavor.
-- The libraries below are Public Domain or _zlib/libpng licensed_ (~lesser MIT equivalent with optional attribution in binary distributions); they are (wherever possible) _cross-platform_, have _no external dependencies_, are _header-only_; they have been used in _commercial games_ (and should be battle-tested); and they follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
+- The specifications below are Public Domain or CC0 licensed, written in Markdown flavor.
+- The libraries below are Public Domain or _zlib/libpng licensed_ (~lesser MIT equivalent with optional attribution in binary distributions) written in C++03 or C++11 mostly. 
+- I follow this extension convention: `.hpp/.cpp` for sources, `.cc` for samples and `.cxx` for tests and benchmarks.
+- Most of my source code is (where possible) _cross-platform_, _header-only_ and _self-contained_, have been used in _commercial games_, and is therefore pretty much battle-tested. No explicit warranties though.
 
 ## Released
 Fully released / tested; more features may be incoming, but these are considered to be in a 'stable' state.
