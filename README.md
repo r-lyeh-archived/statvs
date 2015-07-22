@@ -79,8 +79,9 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Duty](https://github.com/r-lyeh/duty) -- lightweight *task manager* for parallel coroutines and serial jobs (C++11).
 * [RGB332 (tool)](https://github.com/r-lyeh/rgb332) -- custom uniform *RGB332 palette*.
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
-* [Test-allocators](https://github.com/r-lyeh/test-allocators) -- benchmark for different *memory allocators*.
+* [Malloc-survey](https://github.com/r-lyeh/malloc-survey) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
+* [Scriptorium](https://github.com/r-lyeh/scriptorium) -- Game Scripting Languages: yet another benchmark.
 
 ## In Progress
 Proof-of-concepts until stabilised, currently in active development.
