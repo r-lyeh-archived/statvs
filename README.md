@@ -27,6 +27,7 @@ user-interface|[Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple a
 compression|[Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI, BSC and SHOCO.
 compression,tool|[Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
 data-structures|[Burg (C++11)](https://github.com/r-lyeh/burg) <a href="https://travis-ci.org/r-lyeh/burg"><img src="https://api.travis-ci.org/r-lyeh/burg.svg?branch=master" align="right" /></a> <br/> simple burg *linear predictor*.
+debug|[Cash (C++11)](https://github.com/r-lyeh/cash) <a href="https://goo.gl/mm7XAw"><img src="https://goo.gl/Dq71dB" align="right" /></a> <br> portable/generic *CPU profiler*.
 hashing|[Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <a href="https://travis-ci.org/r-lyeh/cocoa"><img src="https://api.travis-ci.org/r-lyeh/cocoa.svg?branch=master" align="right" /></a> <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
 encoding|[Collage (C++03)](https://github.com/r-lyeh/collage) <a href="https://travis-ci.org/r-lyeh/collage"><img src="https://api.travis-ci.org/r-lyeh/collage.svg?branch=master" align="right" /></a> <br/> lightweight library to *diff and patch* arbitrary data.
 unit-testing|[Dessert (C++11):star2:](http://github.com/r-lyeh/dessert) <a href="https://travis-ci.org/r-lyeh/dessert"><img src="https://api.travis-ci.org/r-lyeh/dessert.svg?branch=master" align="right" /></a> <br/> lightweight *unit-testing framework*.
@@ -51,7 +52,6 @@ gameplay|[Memo (C++11)](http://github.com/r-lyeh/memo) <a href="https://travis-c
 stats|[Metrics (C++11)](https://github.com/r-lyeh/metrics) <a href="https://goo.gl/l0C5wv"><img src="https://goo.gl/bn24Kq" align="right" /></a> <br/> table metrics w/ benchmarking, unit conversions in CSV,TSV,ASCII,markdown.
 data-structures|[Oak (C++03)](http://github.com/r-lyeh/oak) <a href="https://goo.gl/l2IoOI"><img src="https://goo.gl/8YevhJ" align="right" /></a> <br/> simple and lightweight *tree container*.
 design|[Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
-debug|[Profit (C++11)](https://github.com/r-lyeh/profit) <a href="https://goo.gl/snn09I"><img src="https://goo.gl/h5zxWw" align="right" /></a> <br> portable/generic *CPU profiler*.
 spec,tool,image|[Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format.
 network|[Route66 (C++03)](https://github.com/r-lyeh/route66) <a href="https://goo.gl/rE1dM1"><img src="https://goo.gl/TD7UpH" align="right" /></a> <br/> lightweight *embeddable HTTP server*.
 io|[Quant (C++03)](https://github.com/r-lyeh/quant) <a href="https://goo.gl/gSHXKv"><img src="https://goo.gl/Kuv8pn" align="right" /></a> <br/> *quantization suite* to/from half-floats, s/unorm bytes, quats and vec3s.
@@ -108,7 +108,6 @@ Forked projects or in collaboration with other coders.
 Yet to be committed, removed and/or finished. Someday.
 
 * [Blender](http://github.com/r-lyeh/blender)
-* [Cash](https://github.com/r-lyeh/cash)
 * [Gate](https://github.com/r-lyeh/gate)
 * [Geo](https://github.com/r-lyeh/geo)
 * [Grog](https://github.com/r-lyeh/grog)
