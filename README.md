@@ -68,7 +68,8 @@ debug|[Unifont (C++11)](http://github.com/r-lyeh/unifont) <a href="https://travi
 security|[Vault (C++03)](http://github.com/r-lyeh/vault) <a href="https://travis-ci.org/r-lyeh/vault"><img src="https://api.travis-ci.org/r-lyeh/vault.svg?branch=master" align="right" /></a> <br/> lightweight and simple *crypt library* that provides interface for ARC4.
 network|[VLE (C99, C++03)](https://github.com/r-lyeh/vle) <a href="https://travis-ci.org/r-lyeh/vle"><img src="https://api.travis-ci.org/r-lyeh/vle.svg?branch=master" align="right" /></a> <br/> simple *variable-length encoder/decoder*.
 audio|[Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
-data-structures|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality, string interpolation and safe C/C++ formatters.
+utils|[Warp (C++11):star2:](http://github.com/r-lyeh/warp) <a href="https://travis-ci.org/r-lyeh/warp"><img src="https://api.travis-ci.org/r-lyeh/warp.svg?branch=master" align="right" /></a> <br/> a handy *string interpolator*.
+data-structures|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality and safe C/C++ formatters.
 
 ## Personal
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
