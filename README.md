@@ -17,7 +17,6 @@ Fully released / tested; more features may be incoming, but these are considered
 Tags|Repository
 :----------------:|:------------
 io|[Apathy (C++11)](http://github.com/r-lyeh/apathy) <a href="https://travis-ci.org/r-lyeh/apathy"><img src="https://api.travis-ci.org/r-lyeh/apathy.svg?branch=master" align="right" /></a> <br/> lightweight *stream/file/mmap/path/virtual-filesystem* IO library.
-spec|[ARYA](http://github.com/r-lyeh/ARYA) <br/> CC0 *asset naming convention*.
 debug|[Assume (C++03)](http://github.com/r-lyeh/assume) <a href="https://travis-ci.org/r-lyeh/assume"><img src="https://api.travis-ci.org/r-lyeh/assume.svg?branch=master" align="right" /></a> <br/> smarter *assert replacement* for LHS/RHS values.
 tool, image|[Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
 security|[Auth (C++03)](http://github.com/r-lyeh/auth) <a href="https://travis-ci.org/r-lyeh/auth"><img src="https://api.travis-ci.org/r-lyeh/auth.svg?branch=master" align="right" /></a> <br/> simple, lightweight and safe client-server *authentication system*.
@@ -65,6 +64,7 @@ data-structures|[Trie (C++11)](http://github.com/r-lyeh/trie) <a href="https://t
 animation |[Tween (C++03)](https://github.com/r-lyeh/tween) <a href="https://travis-ci.org/r-lyeh/tween"><img src="https://api.travis-ci.org/r-lyeh/tween.svg?branch=master" align="right" /></a> <br/> lightweight *easing library*.
 data-structures|[Unordered_map (C++11)](http://github.com/r-lyeh/unordered_map) <a href="https://travis-ci.org/r-lyeh/unordered_map"><img src="https://api.travis-ci.org/r-lyeh/unordered_map.svg?branch=master" align="right" /></a> <br/> *portable header* for std::unordered_map<K,V> template.
 debug|[Unifont (C++11)](http://github.com/r-lyeh/unifont) <a href="https://travis-ci.org/r-lyeh/unifont"><img src="https://api.travis-ci.org/r-lyeh/unifont.svg?branch=master" align="right" /></a> <br/> *embeddable console 1bpp font*.
+spec, io|[Unify (C++11)](http://github.com/r-lyeh/Unify) <a href="https://travis-ci.org/r-lyeh/unify"><img src="https://api.travis-ci.org/r-lyeh/unify.svg?branch=master" align="right" /></a> <br/> a function to *normalize resouce identificators*.
 security|[Vault (C++03)](http://github.com/r-lyeh/vault) <a href="https://travis-ci.org/r-lyeh/vault"><img src="https://api.travis-ci.org/r-lyeh/vault.svg?branch=master" align="right" /></a> <br/> lightweight and simple *crypt library* that provides interface for ARC4.
 network|[VLE (C99, C++03)](https://github.com/r-lyeh/vle) <a href="https://travis-ci.org/r-lyeh/vle"><img src="https://api.travis-ci.org/r-lyeh/vle.svg?branch=master" align="right" /></a> <br/> simple *variable-length encoder/decoder*.
 audio|[Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
