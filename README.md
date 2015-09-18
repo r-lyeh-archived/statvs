@@ -48,6 +48,7 @@ gameplay|[Live (C++11)](http://github.com/r-lyeh/live) <a href="https://travis-c
 data-structures|[LRU (C++11)](https://github.com/r-lyeh/lru) <a href="https://travis-ci.org/r-lyeh/LRU"><img src="https://api.travis-ci.org/r-lyeh/LRU.svg?branch=master" align="right" /></a> <br/> lightweight *LRU cache structure* for list<T> and map<K,V> containers.
 gameplay|[Memo (C++11)](http://github.com/r-lyeh/memo) <a href="https://travis-ci.org/r-lyeh/memo"><img src="https://api.travis-ci.org/r-lyeh/memo.svg?branch=master" align="right" /></a> <br/> simple and lightweight *factory class*, featuring automatic type casting.
 stats|[Metrics (C++11)](https://github.com/r-lyeh/metrics) <a href="https://goo.gl/l0C5wv"><img src="https://goo.gl/bn24Kq" align="right" /></a> <br/> table metrics w/ benchmarking, unit conversions in CSV,TSV,ASCII,markdown.
+io|[mINI (C++11)](https://github.com/r-lyeh/mINI)<a href="https://travis-ci.org/r-lyeh/mINI"><img src="https://api.travis-ci.org/r-lyeh/mINI.svg?branch=master" align="right" /></a> <br/> very minimal *.INI reader/writer*.
 data-structures|[Oak (C++03)](http://github.com/r-lyeh/oak) <a href="https://goo.gl/l2IoOI"><img src="https://goo.gl/8YevhJ" align="right" /></a> <br/> simple and lightweight *tree container*.
 design|[Pitch (Markdown)](https://github.com/r-lyeh/pitch) <br/> forkable game *pitch template*.
 spec,tool,image|[Pug](https://github.com/r-lyeh/pug) <br/> *pug, png with a twist*: lossy image format.
