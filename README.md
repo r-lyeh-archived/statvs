@@ -37,7 +37,7 @@ gameplay|[FSM (C++11)](http://github.com/r-lyeh/fsm) <a href="https://travis-ci.
 design|[Gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
 io|[Giant (C++11)](http://github.com/r-lyeh/giant) <a href="https://travis-ci.org/r-lyeh/giant"><img src="https://api.travis-ci.org/r-lyeh/giant.svg?branch=master" align="right" /></a> <br/> tiny library to *handle little/big endianness*.
 debug|[Heal (C++03)](http://github.com/r-lyeh/heal) <a href="https://travis-ci.org/r-lyeh/heal"><img src="https://api.travis-ci.org/r-lyeh/heal.svg?branch=master" align="right" /></a> <br/> lightweight library to aid and *debug applications*.
-render|[Hertz (C++11)](https://github.com/r-lyeh/Hertz)<a href="https://travis-ci.org/r-lyeh/Hertz"><img src="https://api.travis-ci.org/r-lyeh/Hertz.svg?branch=master" align="right" /></a> <br/> simple *framerate locker*.
+render|[Hertz (C++11)](https://github.com/r-lyeh/Hertz)<a href="https://travis-ci.org/r-lyeh/Hertz"><img src="https://api.travis-ci.org/r-lyeh/hertz.svg?branch=master" align="right" /></a> <br/> simple *framerate locker*.
 input|[Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
 hashing|[ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator.
 mesh, tool|[Img2Sky](http://github.com/r-lyeh/img2sky) <br/> *vertex-color mesh builder tool* for skyboxes and static geometry.
