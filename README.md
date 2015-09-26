@@ -57,6 +57,7 @@ debug|[Profit (C++11)](https://github.com/r-lyeh/profit) <a href="https://goo.gl
 network|[Route66 (C++03)](https://github.com/r-lyeh/route66) <a href="https://goo.gl/rE1dM1"><img src="https://goo.gl/TD7UpH" align="right" /></a> <br/> lightweight *embeddable HTTP server*.
 io|[Quant (C++03)](https://github.com/r-lyeh/quant) <a href="https://goo.gl/gSHXKv"><img src="https://goo.gl/Kuv8pn" align="right" /></a> <br/> *quantization suite* to/from half-floats, s/unorm bytes, quats and vec3s.
 time|[Sand (C++11)](http://github.com/r-lyeh/sand) <a href="https://travis-ci.org/r-lyeh/sand"><img src="https://api.travis-ci.org/r-lyeh/sand.svg?branch=master" align="right" /></a> <br/> lightweight and simple *time library* that provides interface for Unix stamps, hires timers, calendars and locales.
+script|[Scriptorium:star:](https://github.com/r-lyeh/scriptorium) <br/> Game *Scripting Languages benchmarked*.
 data|[Sentry (C++11)](https://github.com/r-lyeh/sentry) <a href="https://travis-ci.org/r-lyeh/sentry"><img src="https://api.travis-ci.org/r-lyeh/sentry.svg?branch=master" align="right" /></a> <br/> lightweight *data monitor*.
 hashing|[Sole (C++11):star2:](http://github.com/r-lyeh/sole) <a href="https://travis-ci.org/r-lyeh/sole"><img src="https://api.travis-ci.org/r-lyeh/sole.svg?branch=master" align="right" /></a> <br/> lightweight library to generate universally *unique identificators* (UUID) both v1 and v4.
 image|[Spot (C++11):star2:](http://github.com/r-lyeh/spot) <a href="https://travis-ci.org/r-lyeh/spot"><img src="https://api.travis-ci.org/r-lyeh/spot.svg?branch=master" align="right" /></a> <br/> compact and embeddable RGBA/HSLA library that supports *WEBP, JPG, progressive JPG, PNG, TGA, DDS DXT1/2/3/4/5, BMP, PSD, GIF, PVR2/3 (ETC1/PVRTC), KTX (ETC1/PVRTC), PKM (ETC1), HDR, PIC, PNM (PPM/PGM), CRN, PUG and vectorial SVG files*.
@@ -84,7 +85,6 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Variant](https://github.com/r-lyeh/variant) -- *varying* class that clones javascript behaviour as much as possible (C++11).
 * [Malloc-survey](https://github.com/r-lyeh/malloc-survey) -- benchmark for different *memory allocators*.
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
-* [Scriptorium](https://github.com/r-lyeh/scriptorium) -- Game Scripting Languages: yet another benchmark.
 
 ## In Progress
 Proof-of-concepts until stabilised, currently in active development.
@@ -93,7 +93,7 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
-* [Wake](https://github.com/r-lyeh/wake)
+* [Wake](https://github.com/r-lyeh/wake) -- a no-brainer *asset build system*. Designed for zombies.
 * [Watchmen](https://github.com/r-lyeh/watchmen) -- *asset dependency system* for games in run-time.
 * [Juice]() --
 * [Graybox]() --
@@ -129,7 +129,7 @@ Yet to be committed, removed and/or finished. Someday.
 ## On Hold / Abandoned
 These are either fully abandoned, or are suffering from an existential crisis.
 
-* [Fontbase](http://github.com/r-lyeh/fontbase) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
+* [FortFont](http://github.com/r-lyeh/fortfont) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
 * [Moon9](https://github.com/r-lyeh/moon9) -- old game engine.
 * [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps.
 * [Wood](https://github.com/r-lyeh/wood) -- old tree data structure.
