@@ -18,13 +18,13 @@ Tags|Repository
 :----------------:|:------------
 io|[Apathy (C++11)](http://github.com/r-lyeh/apathy) <a href="https://travis-ci.org/r-lyeh/apathy"><img src="https://api.travis-ci.org/r-lyeh/apathy.svg?branch=master" align="right" /></a> <br/> lightweight *stream/file/mmap/path/virtual-filesystem* IO library.
 debug|[Assume (C++03)](http://github.com/r-lyeh/assume) <a href="https://travis-ci.org/r-lyeh/assume"><img src="https://api.travis-ci.org/r-lyeh/assume.svg?branch=master" align="right" /></a> <br/> smarter *assert replacement* for LHS/RHS values.
-tool, image|[Attila:star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
+tool, image|[Attila (Win32) :star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
 security|[Auth (C++03)](http://github.com/r-lyeh/auth) <a href="https://travis-ci.org/r-lyeh/auth"><img src="https://api.travis-ci.org/r-lyeh/auth.svg?branch=master" align="right" /></a> <br/> simple, lightweight and safe client-server *authentication system*.
 encoding|[Base91 (C++03)](http://github.com/r-lyeh/base91) <a href="https://travis-ci.org/r-lyeh/base91"><img src="https://api.travis-ci.org/r-lyeh/base91.svg?branch=master" align="right" /></a> <br/> lightweight *binary-to-text encoder/decoder* smaller than base64.
 serial|[Bourne (C++11)](http://github.com/r-lyeh/bourne) <a href="https://travis-ci.org/r-lyeh/bourne"><img src="https://api.travis-ci.org/r-lyeh/bourne.svg?branch=master" align="right" /></a> <br/> lightweight *JSON de/serializer*.
 user-interface|[Bubble (C++11)](https://github.com/r-lyeh/bubble) <br/> simple and lightweight *dialog library for Windows*.
 compression|[Bundle (C++03,C++11):star2:](https://github.com/r-lyeh/bundle) <a href="https://travis-ci.org/r-lyeh/bundle"><img src="https://api.travis-ci.org/r-lyeh/bundle.svg?branch=master" align="right" /></a> <br/> an embeddable *compression* library that supports ZIP, LZMA, LZIP, ZPAQ, LZ4, ZSTD, BROTLI, BSC, CSC, SHRINKER and SHOCO.
-compression,tool|[Bundler](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
+compression,tool|[Bundler (Win32,OSX)](https://github.com/r-lyeh/bundler) <br/> command-line *compression tool*.
 data-structures|[Burg (C++11)](https://github.com/r-lyeh/burg) <a href="https://travis-ci.org/r-lyeh/burg"><img src="https://api.travis-ci.org/r-lyeh/burg.svg?branch=master" align="right" /></a> <br/> simple burg *linear predictor*.
 hashing|[Cocoa (C++11):star2:](http://github.com/r-lyeh/cocoa) <a href="https://travis-ci.org/r-lyeh/cocoa"><img src="https://api.travis-ci.org/r-lyeh/cocoa.svg?branch=master" align="right" /></a> <br/> *hashing library* that provides interface for CRC32, CRC64, GCRC, RS, JS, PJW, ELF, BKDR, SBDM, DJB, DJB2, BP, FNV, AP, BJ1, MH2, SHA1, SFH.
 encoding|[Collage (C++03)](https://github.com/r-lyeh/collage) <a href="https://travis-ci.org/r-lyeh/collage"><img src="https://api.travis-ci.org/r-lyeh/collage.svg?branch=master" align="right" /></a> <br/> lightweight library to *diff and patch* arbitrary data.
@@ -40,7 +40,7 @@ debug|[Heal (C++03)](http://github.com/r-lyeh/heal) <a href="https://travis-ci.o
 render|[Hertz (C++11)](https://github.com/r-lyeh/Hertz)<a href="https://travis-ci.org/r-lyeh/Hertz"><img src="https://api.travis-ci.org/r-lyeh/hertz.svg?branch=master" align="right" /></a> <br/> simple *framerate locker*.
 input|[Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
 hashing|[ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator.
-mesh, tool|[Img2Sky](http://github.com/r-lyeh/img2sky) <br/> *vertex-color mesh builder tool* for skyboxes and static geometry.
+mesh, tool|[Img2Sky (Win32)](http://github.com/r-lyeh/img2sky) <br/> *vertex-color mesh builder tool* for skyboxes and static geometry.
 spec|[JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML*.
 spec|[JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML*.
 network|[Knot (C++03)](http://github.com/r-lyeh/knot) <a href="https://travis-ci.org/r-lyeh/knot"><img src="https://api.travis-ci.org/r-lyeh/knot.svg?branch=master" align="right" /></a> <br/> lightweight and simple *TCP networking* C++ library.
