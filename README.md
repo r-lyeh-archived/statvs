@@ -106,6 +106,7 @@ Forked projects or in collaboration with other coders.
 * [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
 * [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
+* [unlzma](http://github.com/r-lyeh/unlzma) -- A very compact LZMA decoder (C++03).
 
 ## Planned
 Yet to be committed, removed and/or finished. Someday.
