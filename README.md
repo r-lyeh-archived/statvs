@@ -74,6 +74,14 @@ audio|[Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound 
 utils|[Warp (C++11):star2:](http://github.com/r-lyeh/warp) <a href="https://travis-ci.org/r-lyeh/warp"><img src="https://api.travis-ci.org/r-lyeh/warp.svg?branch=master" align="right" /></a> <br/> a handy *string interpolator*.
 data-structures|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality and safe C/C++ formatters.
 
+## Contributions
+Forked projects or in collaboration with other coders.
+
+* [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
+* [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
+* [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
+* [unlzma](http://github.com/r-lyeh/unlzma) -- A very compact LZMA decoder (C++03).
+
 ## Personal
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
 
@@ -88,7 +96,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 * [Test-physics](https://github.com/r-lyeh/test-physics) -- benchmark for different *physics integrators*.
 
 ## In Progress
-Proof-of-concepts until stabilised, currently in active development.
+Proof-of-concepts until stabilised, currently in mid/active development.
 
 * [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
@@ -100,14 +108,6 @@ Proof-of-concepts until stabilised, currently in active development.
 * [Graybox]() --
 * [Drop]() --
 * [Checklist]() --
-
-## Contributions
-Forked projects or in collaboration with other coders.
-
-* [jsonxx](http://github.com/hjiang/jsonxx) -- lightweight *JSON parser* written in C++.
-* [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
-* [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
-* [unlzma](http://github.com/r-lyeh/unlzma) -- A very compact LZMA decoder (C++03).
 
 ## Planned
 Yet to be committed, removed and/or finished. Someday.
