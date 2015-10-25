@@ -3,6 +3,8 @@ status
 
 [![Join the chat at https://gitter.im/r-lyeh/status](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/r-lyeh/status?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/r-lyeh/status](https://badges.gitter.im/Join%20Chat.svg)](https://discordapp.com/widget/?id=107790076909457408&theme=dark)
+
 My name is r-lyeh and I code videogames :neckbeard:
 
 This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
