@@ -43,6 +43,7 @@ render|[Hertz (C++11)](https://github.com/r-lyeh/Hertz)<a href="https://travis-c
 input|[Hyde (C++03)](http://github.com/r-lyeh/hyde) <br/> lightweight and simple Human *Inferface Device* (HID) library.
 hashing|[ID (C++11)](http://github.com/r-lyeh/id) <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a> <br/> simple *compile-time hasher* and sequential ID generator.
 mesh, tool|[Img2Sky (Win32)](http://github.com/r-lyeh/img2sky) <br/> *vertex-color mesh builder tool* for skyboxes and static geometry.
+io|[Journey (C++11)](http://github.com/r-lyeh/journey) <a href="https://travis-ci.org/r-lyeh/journey"><img src="https://api.travis-ci.org/r-lyeh/journey.svg?branch=master" align="right" /></a> <br/> lightweight *append-only, header-less, journaling file format*.
 spec|[JXML](http://github.com/r-lyeh/JXML) <br/> loss-less representation of *JSON in XML*.
 spec|[JXMLex](http://github.com/r-lyeh/JXMLex) <br/> expressive representation of *JSON in XML*.
 network|[Knot (C++03)](http://github.com/r-lyeh/knot) <a href="https://travis-ci.org/r-lyeh/knot"><img src="https://api.travis-ci.org/r-lyeh/knot.svg?branch=master" align="right" /></a> <br/> lightweight and simple *TCP networking* C++ library.
@@ -101,7 +102,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 ## In Progress
 Proof-of-concepts until stabilised, currently in mid/active development.
 
-* [Eve](https://github.com/r-lyeh/eve) -- *game engine* where graphics are low priority (C++11).
+* [EDGE](https://github.com/r-lyeh/EDGE) -- tiny *3D game engine* in C++, with C and Lua interfaces. Written in 32 days.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
@@ -134,6 +135,7 @@ Yet to be committed, removed and/or finished. Someday.
 These are either fully abandoned, or are suffering from an existential crisis.
 
 * [FortFont](http://github.com/r-lyeh/fortfont) -- collection of *western, CJK and iconographic fonts* free for commercial usage.
+* [Eve](https://github.com/r-lyeh/eve) -- deprecated game engine where graphics are low priority (C++11).
 * [Moon9](https://github.com/r-lyeh/moon9) -- old game engine.
 * [Stringbase](http://github.com/r-lyeh/stringbase) -- collaborative effort aimed to *translate common texts* found in videogames and regular apps.
 * [Wood](https://github.com/r-lyeh/wood) -- old tree data structure.
