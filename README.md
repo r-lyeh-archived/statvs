@@ -84,6 +84,7 @@ Forked projects or in collaboration with other coders.
 * [IMGUI](http://github.com/r-lyeh/imgui) -- OpenGL 2/3 *Immediate Mode GUI* toolkit.
 * [units](http://github.com/r-lyeh/units) -- numerical quantities with units (C++03).
 * [unlzma](http://github.com/r-lyeh/unlzma) -- A very compact LZMA decoder (C++03).
+* [eval](http://github.com/r-lyeh/eval) -- very simple expression evaluator using shunting-yard algorithm and RPN (C++11).
 
 ## Personal
 These are mostly released experiments, but are geared towards personal use; as such, they may be of very limited use during development.
