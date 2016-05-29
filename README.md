@@ -36,6 +36,7 @@ debug|[DrEcho (C++11)](http://github.com/r-lyeh/DrEcho) <a href="https://travis-
 debug|[Error64 (C,C++)](http://github.com/r-lyeh/error64) <a href="https://travis-ci.org/r-lyeh/error64"><img src="https://api.travis-ci.org/r-lyeh/error64.svg?branch=master" align="right" /></a> <br/> Handle custom 64-bit error codes, with extended meta-info
 gameplay|[Flare (C++03)](https://github.com/r-lyeh/flare) <a href="https://travis-ci.org/r-lyeh/flare"><img src="https://api.travis-ci.org/r-lyeh/flare.svg?branch=master" align="right" /></a> <br/> lightweight C++ API to deal with *digital signals/logical buttons*.
 network|[Flow (C++11)](https://github.com/r-lyeh/flow) <a href="https://travis-ci.org/r-lyeh/flow"><img src="https://api.travis-ci.org/r-lyeh/flow.svg?branch=master" align="right" /></a> <br/> lightweight network downloader with native fallbacks aimed to gamedev.
+text|[Fmt11 (C++11)](http://github.com/r-lyeh/fmt11) <a href="https://travis-ci.org/r-lyeh/fmt11"><img src="https://api.travis-ci.org/r-lyeh/fmt11.svg?branch=master" align="right" /></a> <br/> tiny **formatting/mustache** library.
 gameplay|[Frodo (C++11)](https://github.com/r-lyeh/frodo) <a href="https://travis-ci.org/r-lyeh/frodo"><img src="https://api.travis-ci.org/r-lyeh/frodo.svg?branch=master" align="right" /></a> <br/> lightweight *ring dependency framework*.
 gameplay|[FSM (C++11)](http://github.com/r-lyeh/fsm) <a href="https://travis-ci.org/r-lyeh/fsm"><img src="https://api.travis-ci.org/r-lyeh/fsm.svg?branch=master" align="right" /></a> <br/> lightweight Hierarchical/*Finite-State Machine* (H/FSM) class.
 design|[Gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
@@ -78,7 +79,7 @@ security|[Vault (C++03)](http://github.com/r-lyeh/vault) <a href="https://travis
 network|[VLE (C99, C++03)](https://github.com/r-lyeh/vle) <a href="https://travis-ci.org/r-lyeh/vle"><img src="https://api.travis-ci.org/r-lyeh/vle.svg?branch=master" align="right" /></a> <br/> simple *variable-length encoder/decoder*.
 audio|[Wave (C++11)](http://github.com/r-lyeh/wave) <br/> lightweight *3D sound wrapper* for OpenAL that supports OGG and MusePack decoding.
 utils|[Warp (C++11):star2:](http://github.com/r-lyeh/warp) <a href="https://travis-ci.org/r-lyeh/warp"><img src="https://api.travis-ci.org/r-lyeh/warp.svg?branch=master" align="right" /></a> <br/> a handy *string interpolator*.
-data-structures|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality and safe C/C++ formatters.
+text|[Wire (C++11):star2:](http://github.com/r-lyeh/wire) <a href="https://travis-ci.org/r-lyeh/wire"><img src="https://api.travis-ci.org/r-lyeh/wire.svg?branch=master" align="right" /></a> <br/> a drop-in *std::string replacement* with extended functionality and safe C/C++ formatters.
 
 ## Contributions
 Forked projects or in collaboration with other coders.
