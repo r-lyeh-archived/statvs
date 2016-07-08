@@ -107,7 +107,7 @@ These are mostly released experiments, but are geared towards personal use; as s
 ## In Progress
 Proof-of-concepts until stabilised, currently in mid/active development.
 
-* [EDGE](https://github.com/r-lyeh/EDGE) -- tiny *3D game engine* in C++, with C and Lua interfaces. Written in 32 days.
+* [AVA](https://github.com/r-lyeh/AVA) -- tiny *3D game engine* in C++, with C and Lua interfaces.
 * [Jabba](https://github.com/r-lyeh/jabba) -- (C++11).
 * [Play](https://github.com/r-lyeh/play) -- easy *alternative to scripting* in gameplay code.
 * [Solace](https://github.com/r-lyeh/solace) -- modern *console replacement*.
