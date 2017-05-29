@@ -1,7 +1,7 @@
 status
 ======
 
-[![Join the chat at DiscordApp](https://img.shields.io/badge/discord-chat-blue.svg)](https://discord.gg/0fTHx64VxeE8fqFa)
+[![Join the chat at DiscordApp](https://img.shields.io/badge/discord-support-blue.svg)](https://discord.gg/vu6Vt9d)
 
 My name is r-lyeh and I code videogames :neckbeard:
 
