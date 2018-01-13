@@ -18,11 +18,6 @@ Fully released / tested; more features may be incoming, but these are considered
 
 Tags|Repository
 :----------------:|:------------
-doc|[stddoc.c (C)](http://github.com/r-lyeh/stddoc.c) <br/> tiny *source code documentation generator*.
-
-
-Tags|Repository
-:----------------:|:------------
 io|[Apathy (C++03)](http://github.com/r-lyeh/apathy) <a href="https://travis-ci.org/r-lyeh/apathy"><img src="https://api.travis-ci.org/r-lyeh/apathy.svg?branch=master" align="right" /></a> <br/> lightweight *path/file/mstream/mmap IO library*.
 debug|[Assume (C++03)](http://github.com/r-lyeh/assume) <a href="https://travis-ci.org/r-lyeh/assume"><img src="https://api.travis-ci.org/r-lyeh/assume.svg?branch=master" align="right" /></a> <br/> smarter *assert replacement* for LHS/RHS values.
 tool, image|[Attila (Win32) :star2:](https://github.com/r-lyeh/attila) <a href="https://travis-ci.org/r-lyeh/attila"><img src="https://api.travis-ci.org/r-lyeh/attila.svg?branch=master" align="right" /></a> <br/> tiny *atlas texture/image packer tool*.
