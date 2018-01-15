@@ -7,6 +7,7 @@ My name is r-lyeh and I code videogames :neckbeard:
 
 This repo is meant to be a semi-conclusive list of projects in which the author is / has participated in.
 
+- The list below is archived. A newer list can be [found here](https://github.com/r-lyeh/statvs).
 - The tools below are Public Domain.
 - The specifications below are Public Domain (or CC0 licensed), written in Markdown.
 - The libraries below are Public Domain (or _ZLIB/LibPNG licensed_), written in C++.
